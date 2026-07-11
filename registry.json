@@ -6,7 +6,7 @@
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
-      "revoked": false,
+      "revoked": true,
       "label": "local",
       "created": "2026-07-11"
     }
