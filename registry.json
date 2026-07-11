@@ -5,11 +5,6 @@
       "revoked": false,
       "label": "local",
       "created": "2026-07-11"
-    },
-    "ae146b973fd62640526265fb4e4073031ad0b5c0905e1d5b4d912bb5772760ee": {
-      "revoked": false,
-      "label": "temp-x",
-      "created": "2026-07-11"
     }
   }
 }
