@@ -1,9 +1,5 @@
 {
-  "latest": {
-    "version": "4.0.1",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v4.0.1/Fluvor-4.0.1-arm64.dmg",
-    "notes": "prueba de aviso"
-  },
+  "latest": null,
   "licenses": {
     "ad8ba6d75a9d9f65b339811a61d8989094bb7532666947fce24ef803477b66e2": {
       "revoked": false,
