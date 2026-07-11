@@ -5,6 +5,11 @@
       "revoked": false,
       "label": "test-local",
       "created": "2026-07-11"
+    },
+    "00b128f565f4033965ae60088498d0c66ac1ad2bab2760ea1b15cf9cdca0df9a": {
+      "revoked": false,
+      "label": "tester-1",
+      "created": "2026-07-11"
     }
   }
 }
