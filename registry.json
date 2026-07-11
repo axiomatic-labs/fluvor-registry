@@ -1,11 +1,6 @@
 {
   "latest": null,
   "licenses": {
-    "ad8ba6d75a9d9f65b339811a61d8989094bb7532666947fce24ef803477b66e2": {
-      "revoked": false,
-      "label": "test-local",
-      "created": "2026-07-11"
-    },
     "00b128f565f4033965ae60088498d0c66ac1ad2bab2760ea1b15cf9cdca0df9a": {
       "revoked": false,
       "label": "tester-1",
