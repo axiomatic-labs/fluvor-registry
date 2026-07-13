@@ -9,6 +9,11 @@
       "revoked": false,
       "label": "local",
       "created": "2026-07-11"
+    },
+    "6ff657d6d1b721fd7db5b5554efc9bbc8768d73fbc1daa6b1921f175abdac95f": {
+      "revoked": false,
+      "label": "prueba 1",
+      "created": "2026-07-13"
     }
   }
 }
