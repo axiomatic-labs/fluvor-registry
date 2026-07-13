@@ -1,8 +1,8 @@
 {
   "latest": {
-    "version": "0.1.2",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.2/Fluvor-0.1.2-arm64.dmg",
-    "notes": "Marketplace MCP (50 servers, OAuth de un click + import de otras herramientas), Agents & Skills (formato Claude Code nativo + import Codex/Gemini), tab Contexto con edicion de CLAUDE.md, Configuracion global sin proyecto, URLs clickeables en el chat, Shift+Tab para cambiar de modo, explorador con crear/eliminar/renombrar y correcciones de UI"
+    "version": "0.1.3",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.3/Fluvor-0.1.3-arm64.dmg",
+    "notes": "Fix critico: la version de Mac Intel ya no crashea al abrir. Nuevo: color de la franja superior por proyecto para distinguir de un vistazo en que proyecto estas. Correcciones de UI."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
