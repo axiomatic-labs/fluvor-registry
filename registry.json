@@ -11,12 +11,12 @@
       "created": "2026-07-11"
     },
     "6ff657d6d1b721fd7db5b5554efc9bbc8768d73fbc1daa6b1921f175abdac95f": {
-      "revoked": false,
+      "revoked": true,
       "label": "prueba 1",
       "created": "2026-07-13"
     },
     "59eff6ae951dc9632b18c83f01c57dc8d1b0152828c39238912d69efac979e00": {
-      "revoked": false,
+      "revoked": true,
       "label": "prueba 2",
       "created": "2026-07-13"
     }
