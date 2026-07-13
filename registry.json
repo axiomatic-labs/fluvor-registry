@@ -1,12 +1,12 @@
 {
   "latest": {
-    "version": "0.1.4",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.4/Fluvor-0.1.4-arm64.dmg",
+    "version": "0.1.5",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.5/Fluvor-0.1.5-arm64.dmg",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.4/Fluvor-0.1.4-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.4/Fluvor-0.1.4-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.5/Fluvor-0.1.5-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.5/Fluvor-0.1.5-x64.dmg"
     },
-    "notes": "Corrige el motor en Macs Intel (binario x64 del SDK ausente), errores del motor ahora visibles, y gate de conexión de Claude que guía el login oficial"
+    "notes": "sesiones propias (no adopta transcripts de Claude Code), /clear total estilo Claude Code, nuevo Traspaso y Compactar, fix drag de favoritos"
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
