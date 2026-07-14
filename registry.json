@@ -1,12 +1,12 @@
 {
   "latest": {
-    "version": "0.1.20",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.20/Fluvor-0.1.20-arm64.dmg",
+    "version": "0.1.21",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.21/Fluvor-0.1.21-arm64.dmg",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.20/Fluvor-0.1.20-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.20/Fluvor-0.1.20-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.21/Fluvor-0.1.21-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.21/Fluvor-0.1.21-x64.dmg"
     },
-    "notes": "Arregla el banner rojo al renombrar sesión (ya no crashea ni queda pegado) y la strip de pestañas que desaparecía al cambiar de sesión"
+    "notes": "pane multi-browser (ver al design-critic + modo auto), fix definitivo de ventana nueva, tab Seguridad con guardrail de secretos opt-in, screenshots de jueces en el chat"
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
