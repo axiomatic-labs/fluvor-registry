@@ -1,12 +1,12 @@
 {
   "latest": {
-    "version": "0.1.12",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.12/Fluvor-0.1.12-arm64.dmg",
+    "version": "0.1.13",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.13/Fluvor-0.1.13-arm64.dmg",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.12/Fluvor-0.1.12-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.12/Fluvor-0.1.12-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.13/Fluvor-0.1.13-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.13/Fluvor-0.1.13-x64.dmg"
     },
-    "notes": ""
+    "notes": "Chip modelo·effort en subagentes del chat; git en el chat; colores de ventana con contraste automático; pestañas de usuario en el browser"
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
