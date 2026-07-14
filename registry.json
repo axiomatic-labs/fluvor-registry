@@ -1,12 +1,12 @@
 {
   "latest": {
-    "version": "0.1.10",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.10/Fluvor-0.1.10-arm64.dmg",
+    "version": "0.1.11",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.11/Fluvor-0.1.11-arm64.dmg",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.10/Fluvor-0.1.10-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.10/Fluvor-0.1.10-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.11/Fluvor-0.1.11-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.11/Fluvor-0.1.11-x64.dmg"
     },
-    "notes": "Pestañas de browser por proyecto; 'Nueva ventana' robusta (ya no queda muda con el gate en blanco); mejoras de arranque"
+    "notes": ""
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
