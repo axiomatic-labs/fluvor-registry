@@ -1,10 +1,10 @@
 {
   "latest": {
-    "version": "0.1.16",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.16/Fluvor-0.1.16-arm64.dmg",
+    "version": "0.1.17",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.17/Fluvor-0.1.17-arm64.dmg",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.16/Fluvor-0.1.16-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.16/Fluvor-0.1.16-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.17/Fluvor-0.1.17-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.17/Fluvor-0.1.17-x64.dmg"
     },
     "notes": ""
   },
