@@ -1,12 +1,12 @@
 {
   "latest": {
-    "version": "0.1.33",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.33/Fluvor-0.1.33-arm64.dmg",
+    "version": "0.1.34",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.34/Fluvor-0.1.34-arm64.dmg",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.33/Fluvor-0.1.33-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.33/Fluvor-0.1.33-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.34/Fluvor-0.1.34-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.34/Fluvor-0.1.34-x64.dmg"
     },
-    "notes": ""
+    "notes": "kickoff greenfield: al abrir un proyecto nuevo, Fluvor sugiere partir con /prototype o la entrevista /grill-me (y reutilizar tus decisiones si ya la corriste) — opcional y descartable"
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
