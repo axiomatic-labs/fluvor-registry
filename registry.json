@@ -1,12 +1,12 @@
 {
   "latest": {
-    "version": "0.1.37",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.37/Fluvor-0.1.37-arm64.dmg",
+    "version": "0.1.38",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.38/Fluvor-0.1.38-arm64.dmg",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.37/Fluvor-0.1.37-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.37/Fluvor-0.1.37-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.38/Fluvor-0.1.38-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.38/Fluvor-0.1.38-x64.dmg"
     },
-    "notes": "voz del asistente: habla como el ingeniero más senior de la sala y responde en tu idioma en registro neutro profesional (adiós al voseo no pedido) — toggle en Perfil"
+    "notes": ""
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
