@@ -1,12 +1,12 @@
 {
   "latest": {
-    "version": "0.1.45",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.45/Fluvor-0.1.45-arm64.dmg",
+    "version": "0.1.46",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.46/Fluvor-0.1.46-arm64.dmg",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.45/Fluvor-0.1.45-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.45/Fluvor-0.1.45-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.46/Fluvor-0.1.46-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.46/Fluvor-0.1.46-x64.dmg"
     },
-    "notes": "Motor dual: Claude + Codex con switch en el composer y jueces en ambos motores. Arreglo de raíz del browser colgado (evaluate que navegaba, watchdog con recuperación real, permisos sin rechazos fantasma)."
+    "notes": "Modelo y esfuerzo coherentes entre motores: cada engine recuerda su modelo (sin fugas cruzadas), tu esfuerzo ahora manda también en Codex, Revisores con modelos de ambos motores, y selector de motor en Cmd+P y Ajustes."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
