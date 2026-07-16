@@ -1,12 +1,12 @@
 {
   "latest": {
-    "version": "0.1.48",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.48/Fluvor-0.1.48-arm64.dmg",
+    "version": "0.1.49",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.49/Fluvor-0.1.49-arm64.dmg",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.48/Fluvor-0.1.48-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.48/Fluvor-0.1.48-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.49/Fluvor-0.1.49-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.49/Fluvor-0.1.49-x64.dmg"
     },
-    "notes": "Motor Codex aislado y estable en la app instalada (binario incluido), reportes de fallos automáticos, protección anti-manipulación del paquete y actualizaciones escalonadas."
+    "notes": "Corrige el botón de detener con Codex (ahora corta el turno y sus revisores al instante) y suma reportes automáticos de fallos y cuelgues para diagnóstico en campo."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
