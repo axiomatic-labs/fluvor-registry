@@ -1,12 +1,12 @@
 {
   "latest": {
-    "version": "0.1.57",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.57/Fluvor-0.1.57-arm64.dmg",
+    "version": "0.1.58",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.58/Fluvor-0.1.58-arm64.dmg",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.57/Fluvor-0.1.57-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.57/Fluvor-0.1.57-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.58/Fluvor-0.1.58-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.58/Fluvor-0.1.58-x64.dmg"
     },
-    "notes": ""
+    "notes": "Telemetría en Codex: gauge de contexto, tokens en vivo (aprox) y aviso de que el límite de gasto no aplica en Codex"
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
