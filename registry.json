@@ -1,12 +1,12 @@
 {
   "latest": {
-    "version": "0.1.54",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.54/Fluvor-0.1.54-arm64.dmg",
+    "version": "0.1.55",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.55/Fluvor-0.1.55-arm64.dmg",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.54/Fluvor-0.1.54-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.54/Fluvor-0.1.54-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.55/Fluvor-0.1.55-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.55/Fluvor-0.1.55-x64.dmg"
     },
-    "notes": "Revisores fusionados en el tab 'Modelo y motor' — configura motor, modelo y revisores en un solo lugar"
+    "notes": "El harness ahora delega la verificación por browser en los revisores independientes según la request (menos sesgo de auto-revisión, contexto del orquestador preservado)"
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
