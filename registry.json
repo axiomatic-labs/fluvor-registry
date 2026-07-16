@@ -1,12 +1,12 @@
 {
   "latest": {
-    "version": "0.1.51",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.51/Fluvor-0.1.51-arm64.dmg",
+    "version": "0.1.52",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.52/Fluvor-0.1.52-arm64.dmg",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.51/Fluvor-0.1.51-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.51/Fluvor-0.1.51-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.52/Fluvor-0.1.52-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.52/Fluvor-0.1.52-x64.dmg"
     },
-    "notes": "Fluvor 0.1.51"
+    "notes": "Corrige la pantalla gris del preview tras recargar o cargar, hace la recarga instantánea en sitio (sin reconstruir la vista), y precarga las pestañas de UI para que cambiar entre ellas sea inmediato."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
