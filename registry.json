@@ -1,12 +1,12 @@
 {
   "latest": {
-    "version": "0.1.71",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.71/Fluvor-0.1.71-arm64.dmg",
+    "version": "0.1.72",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.72/Fluvor-0.1.72-arm64.dmg",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.71/Fluvor-0.1.71-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.71/Fluvor-0.1.71-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.72/Fluvor-0.1.72-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.72/Fluvor-0.1.72-x64.dmg"
     },
-    "notes": ""
+    "notes": "Perfiles de configuración: guarda motor + modelo + esfuerzo + revisores y alterna de un toque (ideal cuando se acaba la cuota de un motor). Incluye el fix de partición de browser por proyecto."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
