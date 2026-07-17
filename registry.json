@@ -1,12 +1,12 @@
 {
   "latest": {
-    "version": "0.1.65",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.65/Fluvor-0.1.65-arm64.dmg",
+    "version": "0.1.66",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.66/Fluvor-0.1.66-arm64.dmg",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.65/Fluvor-0.1.65-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.65/Fluvor-0.1.65-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.66/Fluvor-0.1.66-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.66/Fluvor-0.1.66-x64.dmg"
     },
-    "notes": "Arregla el OAuth de MCP (Sentry y otros remotos): antes se quedaba conectando sin levantar la autorización si no habías escrito en el chat. Ahora conecta y autoriza aunque no hayas iniciado la conversación."
+    "notes": "Muestra la versión de Fluvor en Settings + arreglo del OAuth de MCP (Sentry) sin necesidad de escribir en el chat primero."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
