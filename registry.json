@@ -1,12 +1,12 @@
 {
   "latest": {
-    "version": "0.1.75",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.75/Fluvor-0.1.75-arm64.dmg",
+    "version": "0.1.76",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.76/Fluvor-0.1.76-arm64.dmg",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.75/Fluvor-0.1.75-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.75/Fluvor-0.1.75-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.76/Fluvor-0.1.76-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.76/Fluvor-0.1.76-x64.dmg"
     },
-    "notes": "Lenses con repertorios de patrones canónicos por disciplina — cada rol (UX, frontend, backend, seguridad, IA, móvil…) lleva sus patrones de clase mundial en contexto"
+    "notes": ""
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
