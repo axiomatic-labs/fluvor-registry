@@ -1,12 +1,12 @@
 {
   "latest": {
-    "version": "0.1.73",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.73/Fluvor-0.1.73-arm64.dmg",
+    "version": "0.1.74",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.74/Fluvor-0.1.74-arm64.dmg",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.73/Fluvor-0.1.73-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.73/Fluvor-0.1.73-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.74/Fluvor-0.1.74-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.74/Fluvor-0.1.74-x64.dmg"
     },
-    "notes": "Arregla que el chip del perfil se deseleccionaba al cambiar de proyecto o reabrir ajustes (un perfil de Codex perdía su modelo al re-leerse). La config por proyecto se respeta igual que antes."
+    "notes": "Codex: migración completa a app-server — motor JSON-RPC persistente con cards nativas de ask/plan/approval, resume tras crash y suggestions; retirado el exec adapter (codex-sdk fuera del path de sesión)"
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
