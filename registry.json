@@ -1,12 +1,12 @@
 {
   "latest": {
-    "version": "0.1.78",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.78/Fluvor-0.1.78-arm64.dmg",
+    "version": "0.1.79",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.79/Fluvor-0.1.79-arm64.dmg",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.78/Fluvor-0.1.78-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.78/Fluvor-0.1.78-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.79/Fluvor-0.1.79-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.79/Fluvor-0.1.79-x64.dmg"
     },
-    "notes": "Continuidad de contexto al cambiar de motor (Claude ↔ Codex): cada motor retoma su sesión al volver, y el primer cruce traspasa el contexto vía handoff automático"
+    "notes": "Uso del plan: porcentaje real por ventana (5h/semanal) desde /usage del SDK, con detalle consistente entre Claude y Codex"
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
