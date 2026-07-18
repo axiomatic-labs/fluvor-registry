@@ -1,12 +1,12 @@
 {
   "latest": {
-    "version": "0.1.76",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.76/Fluvor-0.1.76-arm64.dmg",
+    "version": "0.1.77",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.77/Fluvor-0.1.77-arm64.dmg",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.76/Fluvor-0.1.76-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.76/Fluvor-0.1.76-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.77/Fluvor-0.1.77-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.77/Fluvor-0.1.77-x64.dmg"
     },
-    "notes": ""
+    "notes": "Shift+Tab solo permisos; chip de uso del plan por motor (Claude+Codex) con día/hora y detalle al click; contexto/tokens correctos por motor; opus[1m] y todo modelo de Claude ahora aplican; eliminado el sesgo de modelo del harness (serie o de OpenAI, variantes [1m], tabla de fallback)"
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
