@@ -1,12 +1,12 @@
 {
   "latest": {
-    "version": "0.1.92",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.92/Fluvor-0.1.92-arm64.dmg",
+    "version": "0.1.93",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.93/Fluvor-0.1.93-arm64.dmg",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.92/Fluvor-0.1.92-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.92/Fluvor-0.1.92-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.93/Fluvor-0.1.93-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.93/Fluvor-0.1.93-x64.dmg"
     },
-    "notes": "Sweep con hechos clasificados: fin de los falsos 'fuera de pantalla' (stepper/carrusel vs RECORTADO real) + jueces más rápidos (settle ignora animaciones infinitas) + fix del pane negro intermitente"
+    "notes": "Browser MCP más rápido en toda superficie: settle v2 (texto vivo ya no bloquea), menos llamadas por audit (observe/screenshot/scroll/resize en un call), re-checks dirigidos tras cada fix, y hechos de layout honestos (foco por diff real, ambigüedad narrada, iframes bien medidos)"
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
