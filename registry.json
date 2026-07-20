@@ -1,12 +1,12 @@
 {
   "latest": {
-    "version": "0.1.88",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.88/Fluvor-0.1.88-arm64.dmg",
+    "version": "0.1.89",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.89/Fluvor-0.1.89-arm64.dmg",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.88/Fluvor-0.1.88-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.88/Fluvor-0.1.88-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.89/Fluvor-0.1.89-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.89/Fluvor-0.1.89-x64.dmg"
     },
-    "notes": ""
+    "notes": "Modo objetivo: panel de objetivos al click del banner (pendientes, historial, descarte) + metrica de intervenciones + fix de calibracion (observaciones propias como pregunta = pendiente)"
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
