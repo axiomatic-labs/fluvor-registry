@@ -1,12 +1,12 @@
 {
   "latest": {
-    "version": "0.1.90",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.90/Fluvor-0.1.90-arm64.dmg",
+    "version": "0.1.91",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.91/Fluvor-0.1.91-arm64.dmg",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.90/Fluvor-0.1.90-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.90/Fluvor-0.1.90-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.91/Fluvor-0.1.91-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.91/Fluvor-0.1.91-x64.dmg"
     },
-    "notes": ""
+    "notes": "Modo objetivo: COLA de objetivos (un mensaje nuevo encola el anterior, jamas se pierde; auto-avance al cumplir; quitar desde el panel) + doctrina de oraculo a11y en verifier/critic"
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
