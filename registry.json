@@ -1,12 +1,12 @@
 {
   "latest": {
-    "version": "0.1.102",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.102/Fluvor-0.1.102-arm64.dmg",
+    "version": "0.1.103",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.103/Fluvor-0.1.103-arm64.dmg",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.102/Fluvor-0.1.102-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.102/Fluvor-0.1.102-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.103/Fluvor-0.1.103-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.103/Fluvor-0.1.103-x64.dmg"
     },
-    "notes": "Gatillo del spec-strategist por señales de stakes, desacoplado de metodología (decisión 0019). Design-critic barre toda la superficie + detector de control desnudo."
+    "notes": "6 bugs de campo: Detener corta el turno correcto · ventana nueva no confunde proyectos ni deja pestaña fantasma · Cmd+Shift+R recarga sin volver al inicio · el kickoff deja el comando en el chat para editarlo · decisiones del grill completas (sin recortar) · rueda del mouse en las pestañas de proyecto."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
