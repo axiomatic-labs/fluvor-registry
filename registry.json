@@ -1,12 +1,12 @@
 {
   "latest": {
-    "version": "0.1.103",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.103/Fluvor-0.1.103-arm64.dmg",
+    "version": "0.1.104",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.104/Fluvor-0.1.104-arm64.dmg",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.103/Fluvor-0.1.103-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.103/Fluvor-0.1.103-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.104/Fluvor-0.1.104-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.104/Fluvor-0.1.104-x64.dmg"
     },
-    "notes": "6 bugs de campo: Detener corta el turno correcto · ventana nueva no confunde proyectos ni deja pestaña fantasma · Cmd+Shift+R recarga sin volver al inicio · el kickoff deja el comando en el chat para editarlo · decisiones del grill completas (sin recortar) · rueda del mouse en las pestañas de proyecto."
+    "notes": "/grill-me: si no estás segura de una pregunta, ahora puedes pedir que profundice, hacerle una contra-pregunta, corregir una premisa incorrecta o sugerir un cambio — reformula sin avanzar a la siguiente."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
