@@ -1,12 +1,12 @@
 {
   "latest": {
-    "version": "0.1.105",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.105/Fluvor-0.1.105-arm64.dmg",
+    "version": "0.1.106",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.106/Fluvor-0.1.106-arm64.dmg",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.105/Fluvor-0.1.105-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.105/Fluvor-0.1.105-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.106/Fluvor-0.1.106-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.106/Fluvor-0.1.106-x64.dmg"
     },
-    "notes": "Grill: las descripciones de las opciones ya no se cortan a mitad de frase, y el botón para pedir profundizar/reformular sin avanzar tiene copy neutro. Tabs: al elegir una sesión asoma la siguiente (navegación sin scroll). + Panel de terminal (drawer con shells libres y split)."
+    "notes": "Grill y /deep: los títulos de las opciones ya no se cortan a mitad de palabra (además de las descripciones)."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
