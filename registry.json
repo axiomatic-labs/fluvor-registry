@@ -1,12 +1,12 @@
 {
   "latest": {
-    "version": "0.1.96",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.96/Fluvor-0.1.96-arm64.dmg",
+    "version": "0.1.98",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.98/Fluvor-0.1.98-arm64.dmg",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.96/Fluvor-0.1.96-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.96/Fluvor-0.1.96-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.98/Fluvor-0.1.98-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.98/Fluvor-0.1.98-x64.dmg"
     },
-    "notes": "Modo remoto con URL estable que se enciende sola al abrir (Cloudflare/ngrok BYO) · las tabs de sesión que desbordan ahora se navegan con la rueda · el campo de respuesta de las preguntas crece como textarea"
+    "notes": "Resiliencia de modelos + 9 correcciones de campo. Modelos: fail-soft automático si un modelo se retira, preflight de salud que avisa y lleva al ajuste, y override de tiers del sistema (Avanzado). Correcciones: revisores que se volvían Codex en cuentas Claude; Cmd+Shift+R ya no borra recientes/favoritos; sesión inicial que se veía vacía al cambiar de proyecto; 3ª sesión worktree que colgaba; 'no se pudo aislar' intermitente; pairing remoto oculto sin túnel; los modos objetivo/plan/proto ahora aparecen en remoto; sugerencia de /prototype en modo prototipo; rebrand a Fluvor."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
