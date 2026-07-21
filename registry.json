@@ -1,12 +1,12 @@
 {
   "latest": {
-    "version": "0.1.101",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.101/Fluvor-0.1.101-arm64.dmg",
+    "version": "0.1.102",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.102/Fluvor-0.1.102-arm64.dmg",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.101/Fluvor-0.1.101-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.101/Fluvor-0.1.101-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.102/Fluvor-0.1.102-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.102/Fluvor-0.1.102-x64.dmg"
     },
-    "notes": ""
+    "notes": "Gatillo del spec-strategist por señales de stakes, desacoplado de metodología (decisión 0019). Design-critic barre toda la superficie + detector de control desnudo."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
