@@ -1,12 +1,12 @@
 {
   "latest": {
-    "version": "0.1.107",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.107/Fluvor-0.1.107-arm64.dmg",
+    "version": "0.1.108",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.108/Fluvor-0.1.108-arm64.dmg",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.107/Fluvor-0.1.107-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.107/Fluvor-0.1.107-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.108/Fluvor-0.1.108-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.108/Fluvor-0.1.108-x64.dmg"
     },
-    "notes": "Lens-aware gates, bounded browser judges, sequential sweep, and fresh browser evidence"
+    "notes": "Spec previo al build, jueces completos, Grill reanudable y mayor resiliencia del turno"
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
