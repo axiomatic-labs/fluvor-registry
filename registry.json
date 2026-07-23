@@ -1,12 +1,12 @@
 {
   "latest": {
-    "version": "0.1.109",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.109/Fluvor-0.1.109-arm64.dmg",
+    "version": "0.1.110",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.110/Fluvor-0.1.110-arm64.dmg",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.109/Fluvor-0.1.109-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.109/Fluvor-0.1.109-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.110/Fluvor-0.1.110-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.110/Fluvor-0.1.110-x64.dmg"
     },
-    "notes": "Mejora la gobernanza del harness, entrega de mensajes, documentos, grill-me y control de turnos de los agentes."
+    "notes": "Structured concurrent judge broker, reliable verification gates, and native file clipboard operations"
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
