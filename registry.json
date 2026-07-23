@@ -1,12 +1,12 @@
 {
   "latest": {
-    "version": "0.1.117",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.117/Fluvor-0.1.117-arm64.dmg",
+    "version": "0.1.118",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.118/Fluvor-0.1.118-arm64.dmg",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.117/Fluvor-0.1.117-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.117/Fluvor-0.1.117-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.118/Fluvor-0.1.118-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.118/Fluvor-0.1.118-x64.dmg"
     },
-    "notes": "Distinct Goal mode flag icon and regression coverage"
+    "notes": "Hardens agent startup, session isolation, prototype workflow, reviewer settings, browser ownership, and UI feedback."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
