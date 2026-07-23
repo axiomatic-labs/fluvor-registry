@@ -1,12 +1,12 @@
 {
   "latest": {
-    "version": "0.1.115",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.115/Fluvor-0.1.115-arm64.dmg",
+    "version": "0.1.116",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.116/Fluvor-0.1.116-arm64.dmg",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.115/Fluvor-0.1.115-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.115/Fluvor-0.1.115-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.116/Fluvor-0.1.116-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.116/Fluvor-0.1.116-x64.dmg"
     },
-    "notes": "Refines Audio settings with clearer local voice controls, progressive disclosure, and accessible navigation."
+    "notes": "Integra App Preview en el selector de browsers y mantiene visible el último browser de agente en seguimiento automático, preservando el aislamiento por ventana, proyecto y sesión."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
