@@ -1,12 +1,12 @@
 {
   "latest": {
-    "version": "0.1.121",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.121/Fluvor-0.1.121-arm64.dmg",
+    "version": "0.1.122",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.122/Fluvor-0.1.122-arm64.dmg",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.121/Fluvor-0.1.121-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.121/Fluvor-0.1.121-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.122/Fluvor-0.1.122-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.122/Fluvor-0.1.122-x64.dmg"
     },
-    "notes": "Aísla browsers por dueño y devuelve informes completos o parciales al builder"
+    "notes": "Adjuntos privados por sesión para PDF, Office, texto e imágenes, con extracción local, OCR y soporte Claude/Codex."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
