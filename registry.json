@@ -1,12 +1,12 @@
 {
   "latest": {
-    "version": "0.1.123",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.123/Fluvor-0.1.123-arm64.dmg",
+    "version": "0.1.124",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.124/Fluvor-0.1.124-arm64.dmg",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.123/Fluvor-0.1.123-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.123/Fluvor-0.1.123-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.124/Fluvor-0.1.124-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/download/v0.1.124/Fluvor-0.1.124-x64.dmg"
     },
-    "notes": "Comandos de servidor configurables por pestaña, con detección, persistencia y reinicio seguro."
+    "notes": "Background judge orchestration and response visualizations"
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
