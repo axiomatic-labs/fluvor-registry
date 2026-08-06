@@ -1,0 +1,26 @@
+{
+  "latest": {
+    "version": "0.1.190",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.190",
+    "urls": {
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.190",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.190"
+    },
+    "downloadUrls": {
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.190/Fluvor-0.1.190-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.190/Fluvor-0.1.190-x64.dmg"
+    },
+    "notes": "Añade modo rápido progresivo a Product Discovery y handoff directo a Prototype"
+  },
+  "licenses": {
+    "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
+      "revoked": false
+    },
+    "6ff657d6d1b721fd7db5b5554efc9bbc8768d73fbc1daa6b1921f175abdac95f": {
+      "revoked": false
+    },
+    "59eff6ae951dc9632b18c83f01c57dc8d1b0152828c39238912d69efac979e00": {
+      "revoked": false
+    }
+  }
+}
