@@ -1,16 +1,16 @@
 {
   "latest": {
-    "version": "0.1.191",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.191",
+    "version": "0.1.192",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.192",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.191",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.191"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.192",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.192"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.191/Fluvor-0.1.191-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.191/Fluvor-0.1.191-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.192/Fluvor-0.1.192-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.192/Fluvor-0.1.192-x64.dmg"
     },
-    "notes": "corrige la reanudación de preguntas dinámicas aparcadas en Product Discovery"
+    "notes": ""
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
