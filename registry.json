@@ -1,16 +1,16 @@
 {
   "latest": {
-    "version": "0.1.192",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.192",
+    "version": "0.1.193",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.193",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.192",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.192"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.193",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.193"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.192/Fluvor-0.1.192-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.192/Fluvor-0.1.192-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.193/Fluvor-0.1.193-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.193/Fluvor-0.1.193-x64.dmg"
     },
-    "notes": ""
+    "notes": "Repara proyecciones legacy de Product Discovery sin repetir decisiones"
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
