@@ -1,16 +1,16 @@
 {
   "latest": {
-    "version": "0.1.194",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.194",
+    "version": "0.1.195",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.195",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.194",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.194"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.195",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.195"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.194/Fluvor-0.1.194-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.194/Fluvor-0.1.194-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.195/Fluvor-0.1.195-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.195/Fluvor-0.1.195-x64.dmg"
     },
-    "notes": "corrige el cierre alcanzable de Product Discovery"
+    "notes": "Muestra los documentos de Product Discovery en Documentos del proyecto"
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
