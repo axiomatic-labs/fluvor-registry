@@ -1,16 +1,16 @@
 {
   "latest": {
-    "version": "0.1.199",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.199",
+    "version": "0.1.200",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.200",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.199",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.199"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.200",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.200"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.199/Fluvor-0.1.199-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.199/Fluvor-0.1.199-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.200/Fluvor-0.1.200-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.200/Fluvor-0.1.200-x64.dmg"
     },
-    "notes": "Corrige la selección de jueces al aprobar Plan Mode y añade un E2E determinístico sin LLM."
+    "notes": "Unifica el workspace canónico de prototipos, mantiene una pestaña estable durante la construcción y recupera prototipos legacy."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
