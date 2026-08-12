@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.201",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.201",
+    "version": "0.1.202",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.202",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.201",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.201"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.202",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.202"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.201/Fluvor-0.1.201-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.201/Fluvor-0.1.201-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.202/Fluvor-0.1.202-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.202/Fluvor-0.1.202-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.201/Fluvor-0.1.201-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.201/Fluvor-0.1.201-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.202/Fluvor-0.1.202-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.202/Fluvor-0.1.202-x64.dmg"
       }
     },
-    "notes": "Incorpora soporte nativo para Windows 10 y 11 y separa los canales de publicación para mantener las actualizaciones estables de macOS independientes de las betas internas de Windows."
+    "notes": ""
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
