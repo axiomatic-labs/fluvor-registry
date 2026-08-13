@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.204",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.204",
+    "version": "0.1.205",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.205",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.204",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.204"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.205",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.205"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.204/Fluvor-0.1.204-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.204/Fluvor-0.1.204-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.205/Fluvor-0.1.205-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.205/Fluvor-0.1.205-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.204/Fluvor-0.1.204-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.204/Fluvor-0.1.204-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.205/Fluvor-0.1.205-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.205/Fluvor-0.1.205-x64.dmg"
       }
     },
-    "notes": "Native skill ingress, durable replay validation, and deterministic invocable matrix"
+    "notes": "Product Discovery: evidence-grounded target buyer guidance"
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
