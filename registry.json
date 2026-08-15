@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.212",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.212",
+    "version": "0.1.213",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.213",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.212",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.212"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.213",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.213"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.212/Fluvor-0.1.212-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.212/Fluvor-0.1.212-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.213/Fluvor-0.1.213-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.213/Fluvor-0.1.213-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.212/Fluvor-0.1.212-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.212/Fluvor-0.1.212-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.213/Fluvor-0.1.213-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.213/Fluvor-0.1.213-x64.dmg"
       }
     },
-    "notes": "Product Discovery: cierra seis deadlocks que impedian terminar una entrevista, unifica las autoridades duplicadas de cierre y persistencia, y alinea el contrato publicado con las reglas que el host exige."
+    "notes": "Product Discovery: la preferencia del cliente target ya no exige un beachhead confirmado, asi que el agente puede investigarla y estimarla desde el inicio; ademas cada card ofrece pedirla explicitamente cuando queda vacia."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
