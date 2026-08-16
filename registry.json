@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.215",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.215",
+    "version": "0.1.216",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.216",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.215",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.215"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.216",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.216"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.215/Fluvor-0.1.215-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.215/Fluvor-0.1.215-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.216/Fluvor-0.1.216-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.216/Fluvor-0.1.216-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.215/Fluvor-0.1.215-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.215/Fluvor-0.1.215-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.216/Fluvor-0.1.216-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.216/Fluvor-0.1.216-x64.dmg"
       }
     },
-    "notes": "Discovery: brief vacío pregunta el tema y la entrevista anterior se puede descartar"
+    "notes": "Discovery: la investigación busca a quien decide y la entrevista recomienda con argumento, sin preseleccionar"
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
