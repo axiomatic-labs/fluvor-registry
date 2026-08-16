@@ -1,19 +1,19 @@
 {
   "latest": {
-    "version": "0.1.220",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.220",
+    "version": "0.1.221",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.221",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.220",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.220"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.221",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.221"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.220/Fluvor-0.1.220-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.220/Fluvor-0.1.220-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.221/Fluvor-0.1.221-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.221/Fluvor-0.1.221-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.220/Fluvor-0.1.220-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.220/Fluvor-0.1.220-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.221/Fluvor-0.1.221-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.221/Fluvor-0.1.221-x64.dmg"
       }
     },
     "notes": ""
