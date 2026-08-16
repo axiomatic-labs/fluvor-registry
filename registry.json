@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.217",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.217",
+    "version": "0.1.219",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.219",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.217",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.217"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.219",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.219"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.217/Fluvor-0.1.217-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.217/Fluvor-0.1.217-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.219/Fluvor-0.1.219-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.219/Fluvor-0.1.219-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.217/Fluvor-0.1.217-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.217/Fluvor-0.1.217-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.219/Fluvor-0.1.219-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.219/Fluvor-0.1.219-x64.dmg"
       }
     },
-    "notes": "Corrige la caída del transporte MCP a los 5 minutos: una llamada que espera a una persona ya no tiene reloj"
+    "notes": ""
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
