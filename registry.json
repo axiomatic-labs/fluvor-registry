@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.213",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.213",
+    "version": "0.1.214",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.214",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.213",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.213"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.214",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.214"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.213/Fluvor-0.1.213-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.213/Fluvor-0.1.213-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.214/Fluvor-0.1.214-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.214/Fluvor-0.1.214-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.213/Fluvor-0.1.213-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.213/Fluvor-0.1.213-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.214/Fluvor-0.1.214-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.214/Fluvor-0.1.214-x64.dmg"
       }
     },
-    "notes": "Product Discovery: la preferencia del cliente target ya no exige un beachhead confirmado, asi que el agente puede investigarla y estimarla desde el inicio; ademas cada card ofrece pedirla explicitamente cuando queda vacia."
+    "notes": "Discovery orquestado por código: entrevista de 10 dominios con investigación del host, profundidad completa de las 55 facetas y automatización"
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
