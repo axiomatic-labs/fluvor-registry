@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.230",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.230",
+    "version": "0.1.231",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.231",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.230",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.230"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.231",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.231"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.230/Fluvor-0.1.230-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.230/Fluvor-0.1.230-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.231/Fluvor-0.1.231-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.231/Fluvor-0.1.231-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.230/Fluvor-0.1.230-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.230/Fluvor-0.1.230-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.231/Fluvor-0.1.231-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.231/Fluvor-0.1.231-x64.dmg"
       }
     },
-    "notes": "Preserva la identidad visual seleccionada y habilita los MCP internos de Codex sin rechazos falsos."
+    "notes": "Aísla plugins de Codex dentro de Fluvor y conserva el navegador nativo para el orquestador y los revisores."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
