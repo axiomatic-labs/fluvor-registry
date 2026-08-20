@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.233",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.233",
+    "version": "0.1.234",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.234",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.233",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.233"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.234",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.234"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.233/Fluvor-0.1.233-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.233/Fluvor-0.1.233-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.234/Fluvor-0.1.234-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.234/Fluvor-0.1.234-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.233/Fluvor-0.1.233-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.233/Fluvor-0.1.233-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.234/Fluvor-0.1.234-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.234/Fluvor-0.1.234-x64.dmg"
       }
     },
-    "notes": "Añade reproducción de audio acotada desde la pregunta activa en Product Discovery."
+    "notes": "Libera spec-strategist para consultas de solo lectura en Claude y Codex, sin restricciones por tipo de turno."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
