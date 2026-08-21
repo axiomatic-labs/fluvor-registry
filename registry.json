@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.237",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.237",
+    "version": "0.1.238",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.238",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.237",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.237"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.238",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.238"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.237/Fluvor-0.1.237-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.237/Fluvor-0.1.237-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.238/Fluvor-0.1.238-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.238/Fluvor-0.1.238-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.237/Fluvor-0.1.237-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.237/Fluvor-0.1.237-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.238/Fluvor-0.1.238-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.238/Fluvor-0.1.238-x64.dmg"
       }
     },
-    "notes": "Estabiliza la entrega de prompts en Claude y Codex y corrige el ingreso durable del modo Prototipo."
+    "notes": ""
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
