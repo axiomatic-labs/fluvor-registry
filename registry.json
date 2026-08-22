@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.245",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.245",
+    "version": "0.1.246",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.246",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.245",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.245"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.246",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.246"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.245/Fluvor-0.1.245-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.245/Fluvor-0.1.245-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.246/Fluvor-0.1.246-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.246/Fluvor-0.1.246-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.245/Fluvor-0.1.245-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.245/Fluvor-0.1.245-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.246/Fluvor-0.1.246-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.246/Fluvor-0.1.246-x64.dmg"
       }
     },
-    "notes": "Auditorías configurables con remediación aprobable en Plan Mode y controles de cards extensas"
+    "notes": "Codex tool progress parity and reliable post-plan classification"
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
