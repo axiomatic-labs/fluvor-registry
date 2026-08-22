@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.243",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.243",
+    "version": "0.1.244",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.244",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.243",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.243"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.244",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.244"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.243/Fluvor-0.1.243-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.243/Fluvor-0.1.243-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.244/Fluvor-0.1.244-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.244/Fluvor-0.1.244-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.243/Fluvor-0.1.243-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.243/Fluvor-0.1.243-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.244/Fluvor-0.1.244-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.244/Fluvor-0.1.244-x64.dmg"
       }
     },
-    "notes": "Paraleliza auditorías independientes de spec-strategist y evita superposición entre browsers y Settings."
+    "notes": "Auditorías paralelas read-only y planes de remediación aprobables"
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
