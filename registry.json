@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.248",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.248",
+    "version": "0.1.249",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.249",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.248",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.248"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.249",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.249"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.248/Fluvor-0.1.248-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.248/Fluvor-0.1.248-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.249/Fluvor-0.1.249-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.249/Fluvor-0.1.249-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.248/Fluvor-0.1.248-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.248/Fluvor-0.1.248-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.249/Fluvor-0.1.249-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.249/Fluvor-0.1.249-x64.dmg"
       }
     },
-    "notes": "Permite desplazarse entre muchas pestañas del proyecto y mantiene visible la pestaña activa y el botón para añadir."
+    "notes": "Corrige permisos MCP en Codex Auto y preserva el foco del composer durante browser verifier y design critic."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
