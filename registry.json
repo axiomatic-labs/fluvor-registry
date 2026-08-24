@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.251",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.251",
+    "version": "0.1.252",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.252",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.251",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.251"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.252",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.252"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.251/Fluvor-0.1.251-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.251/Fluvor-0.1.251-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.252/Fluvor-0.1.252-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.252/Fluvor-0.1.252-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.251/Fluvor-0.1.251-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.251/Fluvor-0.1.251-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.252/Fluvor-0.1.252-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.252/Fluvor-0.1.252-x64.dmg"
       }
     },
-    "notes": "Mejora continuidad de contexto, documentos completos y explorador redimensionable"
+    "notes": "Mejora la cola conversacional durable, la paridad de seguimiento entre Claude y Codex y la gestión segura del vault."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
