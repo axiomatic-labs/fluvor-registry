@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.258",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.258",
+    "version": "0.1.259",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.259",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.258",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.258"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.259",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.259"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.258/Fluvor-0.1.258-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.258/Fluvor-0.1.258-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.259/Fluvor-0.1.259-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.259/Fluvor-0.1.259-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.258/Fluvor-0.1.258-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.258/Fluvor-0.1.258-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.259/Fluvor-0.1.259-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.259/Fluvor-0.1.259-x64.dmg"
       }
     },
-    "notes": ""
+    "notes": "Configuración de revisores para prototipos, importación y menciones del Vault, y clasificación fiable al incorporar mensajes"
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
