@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.263",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.263",
+    "version": "0.1.264",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.264",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.263",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.263"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.264",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.264"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.263/Fluvor-0.1.263-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.263/Fluvor-0.1.263-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.264/Fluvor-0.1.264-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.264/Fluvor-0.1.264-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.263/Fluvor-0.1.263-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.263/Fluvor-0.1.263-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.264/Fluvor-0.1.264-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.264/Fluvor-0.1.264-x64.dmg"
       }
     },
-    "notes": "Mejora la entrega, cancelación y presentación estructurada de mensajes del chat."
+    "notes": "Alinea entrega, cola, Stop y commit visual de mensajes con los contratos nativos de Claude y Codex"
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
