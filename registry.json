@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.267",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.267",
+    "version": "0.1.268",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.268",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.267",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.267"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.268",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.268"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.267/Fluvor-0.1.267-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.267/Fluvor-0.1.267-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.268/Fluvor-0.1.268-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.268/Fluvor-0.1.268-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.267/Fluvor-0.1.267-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.267/Fluvor-0.1.267-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.268/Fluvor-0.1.268-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.268/Fluvor-0.1.268-x64.dmg"
       }
     },
-    "notes": "Sincroniza el modelo efectivo de Goal Mode al cambiar la sesión y restringe la configuración a emisores autorizados."
+    "notes": "Adds read-only /build, /debug and /fix expert workflows, artifact-first audit completion, and safe overlapping review fan-in."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
