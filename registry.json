@@ -28,5 +28,25 @@
     "59eff6ae951dc9632b18c83f01c57dc8d1b0152828c39238912d69efac979e00": {
       "revoked": false
     }
+  },
+  "staged": {
+    "version": "0.1.270",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.270",
+    "urls": {
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.270",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.270"
+    },
+    "downloadUrls": {
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.270/Fluvor-0.1.270-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.270/Fluvor-0.1.270-x64.dmg"
+    },
+    "downloads": {
+      "darwin": {
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.270/Fluvor-0.1.270-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.270/Fluvor-0.1.270-x64.dmg"
+      }
+    },
+    "notes": "Observabilidad completa de lenses y mejoras del pipeline semántico",
+    "percent": 10
   }
 }
