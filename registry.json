@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.286",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.286",
+    "version": "0.1.287",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.287",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.286",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.286"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.287",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.287"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.286/Fluvor-0.1.286-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.286/Fluvor-0.1.286-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.287/Fluvor-0.1.287-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.287/Fluvor-0.1.287-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.286/Fluvor-0.1.286-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.286/Fluvor-0.1.286-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.287/Fluvor-0.1.287-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.287/Fluvor-0.1.287-x64.dmg"
       }
     },
-    "notes": "Goal recovery after restart and default test-suite isolation"
+    "notes": "Goal Mode reliability and Codex visual agent tool recovery"
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
