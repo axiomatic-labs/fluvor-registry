@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.291",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.291",
+    "version": "0.1.292",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.292",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.291",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.291"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.292",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.292"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.291/Fluvor-0.1.291-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.291/Fluvor-0.1.291-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.292/Fluvor-0.1.292-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.292/Fluvor-0.1.292-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.291/Fluvor-0.1.291-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.291/Fluvor-0.1.291-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.292/Fluvor-0.1.292-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.292/Fluvor-0.1.292-x64.dmg"
       }
     },
-    "notes": "Carga nativa verificable de skills efimeras en Claude y Codex"
+    "notes": "Entrega determinista de skills efimeras en Claude sin bloquear mensajes durante comandos activos"
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
