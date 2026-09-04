@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.294",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.294",
+    "version": "0.1.295",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.295",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.294",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.294"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.295",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.295"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.294/Fluvor-0.1.294-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.294/Fluvor-0.1.294-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.295/Fluvor-0.1.295-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.295/Fluvor-0.1.295-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.294/Fluvor-0.1.294-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.294/Fluvor-0.1.294-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.295/Fluvor-0.1.295-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.295/Fluvor-0.1.295-x64.dmg"
       }
     },
-    "notes": "Restaura el inspector de lenses para skills nativas"
+    "notes": "Unifica la interfaz de conversacion y la configuracion de modelos"
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
