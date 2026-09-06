@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.304",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.304",
+    "version": "0.1.305",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.305",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.304",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.304"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.305",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.305"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.304/Fluvor-0.1.304-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.304/Fluvor-0.1.304-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.305/Fluvor-0.1.305-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.305/Fluvor-0.1.305-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.304/Fluvor-0.1.304-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.304/Fluvor-0.1.304-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.305/Fluvor-0.1.305-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.305/Fluvor-0.1.305-x64.dmg"
       }
     },
-    "notes": "Vault references now propagate securely to Claude and Codex sessions; incomplete provider profiles remain fail-soft."
+    "notes": "Actualizaciones oficiales verificadas de Claude y Codex, activación inmediata en sesiones nuevas y fallback seguro."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
