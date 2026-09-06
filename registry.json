@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.307",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.307",
+    "version": "0.1.308",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.308",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.307",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.307"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.308",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.308"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.307/Fluvor-0.1.307-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.307/Fluvor-0.1.307-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.308/Fluvor-0.1.308-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.308/Fluvor-0.1.308-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.307/Fluvor-0.1.307-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.307/Fluvor-0.1.307-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.308/Fluvor-0.1.308-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.308/Fluvor-0.1.308-x64.dmg"
       }
     },
-    "notes": "Fix connector catalog activation for empty sessions and show the pinned runtime for existing conversations."
+    "notes": "Fix automatic reviewers reading repository files when session-context is configured"
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
