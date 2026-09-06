@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.301",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.301",
+    "version": "0.1.302",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.302",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.301",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.301"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.302",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.302"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.301/Fluvor-0.1.301-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.301/Fluvor-0.1.301-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.302/Fluvor-0.1.302-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.302/Fluvor-0.1.302-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.301/Fluvor-0.1.301-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.301/Fluvor-0.1.301-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.302/Fluvor-0.1.302-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.302/Fluvor-0.1.302-x64.dmg"
       }
     },
-    "notes": "Configurable quality baselines and stable native overlay priority"
+    "notes": "Actualización independiente de conectores Claude y Codex, fallback seguro, catálogo dinámico y release optimizada."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
