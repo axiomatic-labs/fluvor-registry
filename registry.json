@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.310",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.310",
+    "version": "0.1.311",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.311",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.310",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.310"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.311",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.311"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.310/Fluvor-0.1.310-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.310/Fluvor-0.1.310-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.311/Fluvor-0.1.311-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.311/Fluvor-0.1.311-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.310/Fluvor-0.1.310-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.310/Fluvor-0.1.310-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.311/Fluvor-0.1.311-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.311/Fluvor-0.1.311-x64.dmg"
       }
     },
-    "notes": "Add fast full-history chat search and semantic project-decisions icon"
+    "notes": "Corrige /scaffold con salida estructurada nativa única en Codex y Claude, acepta evidencia oficial abierta directamente, sincroniza las fases visibles y añade E2E live autenticado para ambos conectores."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
