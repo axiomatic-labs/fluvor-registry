@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.314",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.314",
+    "version": "0.1.315",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.315",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.314",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.314"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.315",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.315"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.314/Fluvor-0.1.314-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.314/Fluvor-0.1.314-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.315/Fluvor-0.1.315-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.315/Fluvor-0.1.315-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.314/Fluvor-0.1.314-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.314/Fluvor-0.1.314-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.315/Fluvor-0.1.315-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.315/Fluvor-0.1.315-x64.dmg"
       }
     },
-    "notes": "Modo Objetivo sin pausas internas, recuperación durable y reintentos del mismo delivery"
+    "notes": "Corrige la validación durable de planes de /execute, reutiliza borradores seguros y distingue visualmente los workflows."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
