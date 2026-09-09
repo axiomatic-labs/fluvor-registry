@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.313",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.313",
+    "version": "0.1.314",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.314",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.313",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.313"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.314",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.314"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.313/Fluvor-0.1.313-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.313/Fluvor-0.1.313-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.314/Fluvor-0.1.314-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.314/Fluvor-0.1.314-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.313/Fluvor-0.1.313-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.313/Fluvor-0.1.313-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.314/Fluvor-0.1.314-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.314/Fluvor-0.1.314-x64.dmg"
       }
     },
-    "notes": "Corrige interrupciones falsas del motor durante pausas de razonamiento semántico y conserva el mismo turno activo."
+    "notes": "Modo Objetivo sin pausas internas, recuperación durable y reintentos del mismo delivery"
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
