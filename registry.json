@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.316",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.316",
+    "version": "0.1.317",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.317",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.316",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.316"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.317",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.317"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.316/Fluvor-0.1.316-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.316/Fluvor-0.1.316-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.317/Fluvor-0.1.317-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.317/Fluvor-0.1.317-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.316/Fluvor-0.1.316-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.316/Fluvor-0.1.316-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.317/Fluvor-0.1.317-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.317/Fluvor-0.1.317-x64.dmg"
       }
     },
-    "notes": "Persistencia canónica de configuración por conversación y aislamiento de ventanas"
+    "notes": "Planificación vertical durable de /execute y observabilidad explícita"
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
