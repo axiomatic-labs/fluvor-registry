@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.332",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.332",
+    "version": "0.1.333",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.333",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.332",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.332"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.333",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.333"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.332/Fluvor-0.1.332-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.332/Fluvor-0.1.332-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.333/Fluvor-0.1.333-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.333/Fluvor-0.1.333-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.332/Fluvor-0.1.332-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.332/Fluvor-0.1.332-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.333/Fluvor-0.1.333-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.333/Fluvor-0.1.333-x64.dmg"
       }
     },
-    "notes": "Corrige el contrato y uso de Context Engineering."
+    "notes": "Perfiles automáticos de navegador para escritorio, tablet y móvil; User-Agent y Client Hints coherentes; credenciales del vault disponibles automáticamente y mejoras de observabilidad. Product Blueprint no certificado: excepción de publicación autorizada explícitamente."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
