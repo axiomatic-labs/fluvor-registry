@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.334",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.334",
+    "version": "0.1.335",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.335",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.334",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.334"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.335",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.335"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.334/Fluvor-0.1.334-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.334/Fluvor-0.1.334-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.335/Fluvor-0.1.335-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.335/Fluvor-0.1.335-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.334/Fluvor-0.1.334-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.334/Fluvor-0.1.334-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.335/Fluvor-0.1.335-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.335/Fluvor-0.1.335-x64.dmg"
       }
     },
-    "notes": "Recertificación de motores históricos compatibles conservando conversaciones; Settings sin reconstrucciones completas por eventos de autenticación; restauración de baselines a valores predeterminados. Publicación parcial: Product Blueprint no certificado; una versión histórica de Claude continúa sin certificar por rechazo del proveedor."
+    "notes": "Preserva secretos multilínea e importa archivos PEM desde Vault"
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
