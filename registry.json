@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.349",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.349",
+    "version": "0.1.350",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.350",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.349",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.349"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.350",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.350"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.349/Fluvor-0.1.349-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.349/Fluvor-0.1.349-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.350/Fluvor-0.1.350-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.350/Fluvor-0.1.350-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.349/Fluvor-0.1.349-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.349/Fluvor-0.1.349-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.350/Fluvor-0.1.350-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.350/Fluvor-0.1.350-x64.dmg"
       }
     },
-    "notes": "Corrige la migración de instrucciones permanentes en sesiones existentes de Claude y Codex sin duplicar contratos."
+    "notes": "Corrige el avance entre fases de /execute y aísla la traducción de razonamiento de Claude"
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
