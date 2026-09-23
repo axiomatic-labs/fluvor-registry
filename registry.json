@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.346",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.346",
+    "version": "0.1.347",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.347",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.346",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.346"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.347",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.347"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.346/Fluvor-0.1.346-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.346/Fluvor-0.1.346-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.347/Fluvor-0.1.347-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.347/Fluvor-0.1.347-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.346/Fluvor-0.1.346-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.346/Fluvor-0.1.346-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.347/Fluvor-0.1.347-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.347/Fluvor-0.1.347-x64.dmg"
       }
     },
-    "notes": "Aísla runtimes temporales, pagina transcripts largos, refresca el contexto de Claude y refuerza la higiene de ejecución."
+    "notes": "Actualiza contratos permanentes de sesiones y normaliza /execute como turnos ordinarios"
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
