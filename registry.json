@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.351",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.351",
+    "version": "0.1.352",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.352",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.351",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.351"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.352",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.352"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.351/Fluvor-0.1.351-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.351/Fluvor-0.1.351-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.352/Fluvor-0.1.352-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.352/Fluvor-0.1.352-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.351/Fluvor-0.1.351-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.351/Fluvor-0.1.351-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.352/Fluvor-0.1.352-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.352/Fluvor-0.1.352-x64.dmg"
       }
     },
-    "notes": "Configura el traductor de razonamiento y alinea los revisores de /execute con los turnos normales."
+    "notes": "Reconciliación real del worktree para revisores y bloqueo de rutas visuales no resueltas"
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
