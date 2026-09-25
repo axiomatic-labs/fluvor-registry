@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.353",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.353",
+    "version": "0.1.354",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.354",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.353",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.353"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.354",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.354"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.353/Fluvor-0.1.353-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.353/Fluvor-0.1.353-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.354/Fluvor-0.1.354-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.354/Fluvor-0.1.354-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.353/Fluvor-0.1.353-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.353/Fluvor-0.1.353-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.354/Fluvor-0.1.354-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.354/Fluvor-0.1.354-x64.dmg"
       }
     },
-    "notes": "Browser reviewers authenticate independently across roles and auth redirects"
+    "notes": "Corrige el llenado autenticado de formularios para los revisores de navegador"
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
