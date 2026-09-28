@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.365",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.365",
+    "version": "0.1.368",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.368",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.365",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.365"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.368",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.368"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.365/Fluvor-0.1.365-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.365/Fluvor-0.1.365-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.368/Fluvor-0.1.368-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.368/Fluvor-0.1.368-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.365/Fluvor-0.1.365-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.365/Fluvor-0.1.365-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.368/Fluvor-0.1.368-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.368/Fluvor-0.1.368-x64.dmg"
       }
     },
-    "notes": "Codex ya no falla con 'url is not supported for stdio' cuando el proyecto define sus propios MCP en .codex/config.toml; los MCP del proyecto no se mezclan con los turnos de Fluvor."
+    "notes": "Claude recibe las instrucciones de Fluvor con autoridad de operador en cada turno y nombra las lentes que aplica antes de cambiar código; el effort elegido en Ajustes ahora sí llega a Claude; ningún cambio queda sin revisión automática, incluidos turnos encadenados, turnos detenidos y revisiones canceladas."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
