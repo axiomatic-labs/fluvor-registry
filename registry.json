@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.363",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.363",
+    "version": "0.1.364",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.364",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.363",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.363"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.364",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.364"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.363/Fluvor-0.1.363-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.363/Fluvor-0.1.363-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.364/Fluvor-0.1.364-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.364/Fluvor-0.1.364-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.363/Fluvor-0.1.363-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.363/Fluvor-0.1.363-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.364/Fluvor-0.1.364-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.364/Fluvor-0.1.364-x64.dmg"
       }
     },
-    "notes": "Mensajes en vivo en Claude se integran al turno en curso sin duplicarse; motor, modelo y effort persisten al reiniciar y en conversaciones nuevas; el spec-strategist se activa para capacidades nuevas y las continuaciones reutilizan el corte validado."
+    "notes": "Los verificadores automáticos solo revisan cambios que el turno realmente causó: una consulta que solo lee ya no lanza jueces, y los archivos propios de Fluvor ya no cuentan como cambios del proyecto."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
