@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.364",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.364",
+    "version": "0.1.365",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.365",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.364",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.364"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.365",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.365"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.364/Fluvor-0.1.364-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.364/Fluvor-0.1.364-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.365/Fluvor-0.1.365-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.365/Fluvor-0.1.365-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.364/Fluvor-0.1.364-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.364/Fluvor-0.1.364-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.365/Fluvor-0.1.365-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.365/Fluvor-0.1.365-x64.dmg"
       }
     },
-    "notes": "Los verificadores automáticos solo revisan cambios que el turno realmente causó: una consulta que solo lee ya no lanza jueces, y los archivos propios de Fluvor ya no cuentan como cambios del proyecto."
+    "notes": "Codex ya no falla con 'url is not supported for stdio' cuando el proyecto define sus propios MCP en .codex/config.toml; los MCP del proyecto no se mezclan con los turnos de Fluvor."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
