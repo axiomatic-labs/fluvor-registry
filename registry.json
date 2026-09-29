@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.368",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.368",
+    "version": "0.1.369",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.369",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.368",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.368"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.369",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.369"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.368/Fluvor-0.1.368-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.368/Fluvor-0.1.368-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.369/Fluvor-0.1.369-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.369/Fluvor-0.1.369-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.368/Fluvor-0.1.368-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.368/Fluvor-0.1.368-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.369/Fluvor-0.1.369-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.369/Fluvor-0.1.369-x64.dmg"
       }
     },
-    "notes": "Claude recibe las instrucciones de Fluvor con autoridad de operador en cada turno y nombra las lentes que aplica antes de cambiar código; el effort elegido en Ajustes ahora sí llega a Claude; ningún cambio queda sin revisión automática, incluidos turnos encadenados, turnos detenidos y revisiones canceladas."
+    "notes": "/execute planifica una tarea por entregable que nombras (seis fases = 6 tareas, no 21); la verificación visual es proporcional al cambio, encuentra la app aunque la levante el builder desde su terminal y reinicia la vista previa si su proceso es anterior al cambio; una revisión que cancelas queda cancelada y una pregunta ya no relanza revisores de turnos anteriores."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
