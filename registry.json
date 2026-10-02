@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.370",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.370",
+    "version": "0.1.371",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.371",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.370",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.370"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.371",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.371"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.370/Fluvor-0.1.370-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.370/Fluvor-0.1.370-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.371/Fluvor-0.1.371-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.371/Fluvor-0.1.371-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.370/Fluvor-0.1.370-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.370/Fluvor-0.1.370-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.371/Fluvor-0.1.371-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.371/Fluvor-0.1.371-x64.dmg"
       }
     },
-    "notes": "/execute ya no se queda detenido en una fase: cada unidad la liquida su propia revisión aunque escribas mientras se revisa, y los turnos del host (cierres de revisión, unidades) llegan al motor de a uno, así Claude no los funde en el turno en curso. Si cancelas la revisión de una fase, el plan queda en pausa con «Reanudar plan»."
+    "notes": "/execute con un plan adjunto ya arma una fase por cada fase del documento: el planificador ahora lee el documento completo y tu pedido (antes veía solo los primeros 8.000 caracteres). El modo objetivo revisa el objetivo completo aunque sea largo, y /spec trabaja con el documento adjunto entero en vez de un resumen."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
