@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.372",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.372",
+    "version": "0.1.373",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.373",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.372",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.372"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.373",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.373"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.372/Fluvor-0.1.372-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.372/Fluvor-0.1.372-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.373/Fluvor-0.1.373-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.373/Fluvor-0.1.373-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.372/Fluvor-0.1.372-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.372/Fluvor-0.1.372-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.373/Fluvor-0.1.373-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.373/Fluvor-0.1.373-x64.dmg"
       }
     },
-    "notes": "Perfiles activos explícitos, continuidad tipada de sesión y recuperación segura de proveedor"
+    "notes": "Configuración masiva de modelo y esfuerzo en Revisores; continuidad al alternar motores y recuperación del historial local sin un mensaje adicional. Excepción autorizada: Product Blueprint no certificado.\n\nExcepción autorizada: SDKs actuales conservados; Codex verificado con E2E real; prueba de Claude pendiente por cuota no disponible."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
