@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.375",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.375",
+    "version": "0.1.376",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.376",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.375",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.375"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.376",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.376"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.375/Fluvor-0.1.375-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.375/Fluvor-0.1.375-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.376/Fluvor-0.1.376-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.376/Fluvor-0.1.376-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.375/Fluvor-0.1.375-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.375/Fluvor-0.1.375-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.376/Fluvor-0.1.376-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.376/Fluvor-0.1.376-x64.dmg"
       }
     },
-    "notes": "Credenciales de prueba en el preview: autocompletar independiente de la URL, búsqueda y usuario visible. Fast nativo por conversación para Claude/Codex: control compacto, estado explícito, confirmación de costes y descripción dinámica cuando el motor la ofrece. Mejoras semánticas de selección de lenses/Product Cut y referencias del producto existente para design-critic, sin ampliar la auditoría visual. Recuperación de capacidades generales de captura de imágenes y controles de fecha/hora. Excepción autorizada: Product Blueprint no certificado; esta publicación no acredita su completitud.\n\nExcepción autorizada: SDKs actuales conservados; Codex verificado con E2E real; prueba de Claude pendiente por cuota no disponible."
+    "notes": "Corrección de la configuración de revisores automáticos de prototipos: se respeta en /prototype, en el modo Prototipo del composer y en la revisión de promoción desde el botón o el orquestador. La selección vacía permite finalizar sin revisores automáticos; @agent y otros workflows permanecen intactos. Textos ES/EN actualizados para explicar ambas entradas. Verificación de configuración en Fluvor con modo activo, sin ejecutar auditorías. Excepción autorizada: Product Blueprint no certificado; esta publicación no acredita su completitud."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
