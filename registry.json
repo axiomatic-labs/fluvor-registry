@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.376",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.376",
+    "version": "0.1.378",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.378",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.376",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.376"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.378",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.378"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.376/Fluvor-0.1.376-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.376/Fluvor-0.1.376-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.378/Fluvor-0.1.378-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.378/Fluvor-0.1.378-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.376/Fluvor-0.1.376-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.376/Fluvor-0.1.376-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.378/Fluvor-0.1.378-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.378/Fluvor-0.1.378-x64.dmg"
       }
     },
-    "notes": "Corrección de la configuración de revisores automáticos de prototipos: se respeta en /prototype, en el modo Prototipo del composer y en la revisión de promoción desde el botón o el orquestador. La selección vacía permite finalizar sin revisores automáticos; @agent y otros workflows permanecen intactos. Textos ES/EN actualizados para explicar ambas entradas. Verificación de configuración en Fluvor con modo activo, sin ejecutar auditorías. Excepción autorizada: Product Blueprint no certificado; esta publicación no acredita su completitud."
+    "notes": "Novedades: acceso remoto desde la cabecera con URL fija guiada (Cloudflare con inicio de sesión en el navegador; ngrok con un solo token); el menú de git lista las branches y cambia con un clic; modo compacto opcional desde Ajustes y el menú Vista; los comandos ! corren en una terminal interactiva; /execute permite pausar el plan indefinidamente y volver a ejecutar desde una tarea; la pill de permisos nombra el modo; interfaz en SF Pro con escala tipográfica de 10 pasos, iconos de línea fina y la marca de Fluvor; monitor de procesos nativos con cancelación; chat más fluido y una restauración desde disco que ya no pisa la sesión en memoria. Corrección: con Fluvor minimizado, oculto o tapado por otra ventana, el fin de turno, los avisos y la cola seguían esperando a que volvieras; ahora avanzan en segundo plano. Product Blueprint no certificado: publicado con --accept-partial-spec por autorización del dueño."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
