@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.383",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.383",
+    "version": "0.1.384",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.384",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.383",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.383"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.384",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.384"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.383/Fluvor-0.1.383-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.383/Fluvor-0.1.383-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.384/Fluvor-0.1.384-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.384/Fluvor-0.1.384-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.383/Fluvor-0.1.383-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.383/Fluvor-0.1.383-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.384/Fluvor-0.1.384-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.384/Fluvor-0.1.384-x64.dmg"
       }
     },
-    "notes": "Los links a archivos del chat siempre llegan a algún lado: el botón de comparar de Claude ya no se pierde tras reiniciar Fluvor; las rutas escritas desde una subcarpeta abren su archivo (y si hay varias coincidencias se elige en un menú); las rutas con acentos, corchetes o @ quedan completas; y un archivo que ya no existe muestra un aviso en lugar de no hacer nada. Product Blueprint no certificado: publicación con especificación parcial (--accept-partial-spec)."
+    "notes": "El panel Cambios ya no queda pegado: si lo abriste y luego vuelves a abrir un archivo desde el chat, la paleta o Ajustes, aparece el árbol de archivos en vez de la lista de Git. El chip de Cambios sigue abriendo la lista. Product Blueprint no certificado: publicación con especificación parcial (--accept-partial-spec)."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
