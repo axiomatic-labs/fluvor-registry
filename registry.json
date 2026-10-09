@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.379",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.379",
+    "version": "0.1.380",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.380",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.379",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.379"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.380",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.380"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.379/Fluvor-0.1.379-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.379/Fluvor-0.1.379-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.380/Fluvor-0.1.380-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.380/Fluvor-0.1.380-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.379/Fluvor-0.1.379-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.379/Fluvor-0.1.379-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.380/Fluvor-0.1.380-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.380/Fluvor-0.1.380-x64.dmg"
       }
     },
-    "notes": "Las tareas finalizadas sólo se registran cuando el agente termina de verdad la tarea, y agrupan todos los mensajes de esa tarea. Todo lo que Fluvor escribe sigue un estándar de redacción con oraciones completas y conectores, en el chat, en los informes y en los textos de los productos que construye. El browser permite silenciar cada pestaña, y los navegadores de los agentes quedan siempre en silencio. La sugerencia del composer es más corta y sigue el estilo de quien escribe. La tarjeta de revisión sólo aparece cuando hay una revisión real. Publicación con Product Blueprint no certificado (--accept-partial-spec)."
+    "notes": "Cerrar una pestaña del browser ahora corta su audio: antes, un video seguía sonando sin verse después de cerrar su pestaña. Publicación con Product Blueprint no certificado (--accept-partial-spec)."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
