@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.380",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.380",
+    "version": "0.1.381",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.381",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.380",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.380"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.381",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.381"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.380/Fluvor-0.1.380-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.380/Fluvor-0.1.380-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.381/Fluvor-0.1.381-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.381/Fluvor-0.1.381-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.380/Fluvor-0.1.380-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.380/Fluvor-0.1.380-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.381/Fluvor-0.1.381-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.381/Fluvor-0.1.381-x64.dmg"
       }
     },
-    "notes": "Cerrar una pestaña del browser ahora corta su audio: antes, un video seguía sonando sin verse después de cerrar su pestaña. Publicación con Product Blueprint no certificado (--accept-partial-spec)."
+    "notes": "Cada edición de código se ve completa en el chat en el momento en que ocurre, con números de línea, colores de sintaxis y las palabras que cambiaron, y se abre en el editor A/B con un clic. Un panel nuevo de Cambios muestra el estado de Git como la app de Codex: sin preparar, preparados, la rama contra su base y el último turno. Fluvor razona como arquitecto con una sola regla que lee el código, recomienda proveedores por nube, región, costo y latencia, y guarda en la memoria del proyecto, con tu aprobación, las decisiones de arquitectura que resuelves. Publicación con Product Blueprint no certificado (--accept-partial-spec)."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
