@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.384",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.384",
+    "version": "0.1.385",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.385",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.384",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.384"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.385",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.385"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.384/Fluvor-0.1.384-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.384/Fluvor-0.1.384-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.385/Fluvor-0.1.385-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.385/Fluvor-0.1.385-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.384/Fluvor-0.1.384-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.384/Fluvor-0.1.384-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.385/Fluvor-0.1.385-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.385/Fluvor-0.1.385-x64.dmg"
       }
     },
-    "notes": "El panel Cambios ya no queda pegado: si lo abriste y luego vuelves a abrir un archivo desde el chat, la paleta o Ajustes, aparece el árbol de archivos en vez de la lista de Git. El chip de Cambios sigue abriendo la lista. Product Blueprint no certificado: publicación con especificación parcial (--accept-partial-spec)."
+    "notes": "/discovery ya no te deja esperando a ciegas: mientras investiga, la card muestra qué está evaluando en tu idioma, y tras 30 segundos sin novedades avisa que sigue trabajando. Después de responder dice que el modelo está leyendo tu respuesta, no que espera la tuya. En /spec, Reconciliación ya puede cerrar lo que exige (antes dejaba abiertas casi todas sus obligaciones), y las publicaciones de /spec vuelven a aparecer para Prototype y Build. Product Blueprint no certificado: publicación con especificación parcial (--accept-partial-spec)."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
