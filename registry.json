@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.385",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.385",
+    "version": "0.1.386",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.386",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.385",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.385"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.386",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.386"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.385/Fluvor-0.1.385-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.385/Fluvor-0.1.385-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.386/Fluvor-0.1.386-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.386/Fluvor-0.1.386-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.385/Fluvor-0.1.385-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.385/Fluvor-0.1.385-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.386/Fluvor-0.1.386-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.386/Fluvor-0.1.386-x64.dmg"
       }
     },
-    "notes": "/discovery ya no te deja esperando a ciegas: mientras investiga, la card muestra qué está evaluando en tu idioma, y tras 30 segundos sin novedades avisa que sigue trabajando. Después de responder dice que el modelo está leyendo tu respuesta, no que espera la tuya. En /spec, Reconciliación ya puede cerrar lo que exige (antes dejaba abiertas casi todas sus obligaciones), y las publicaciones de /spec vuelven a aparecer para Prototype y Build. Product Blueprint no certificado: publicación con especificación parcial (--accept-partial-spec)."
+    "notes": "/spec muestra el producto tomando forma: una card con las ocho etapas, lo que el modelo está haciendo en tus palabras, un medidor que dice exactamente qué falta y un resumen legible al publicar. Coherencia ya puede cerrar lo que exige (OCA queda completa). Prototype y Build reciben el blueprint aunque sea muy grande, y ningún documento, adjunto ni pedido llega recortado sin aviso a los agentes: /deep lee entero un adjunto largo, un @agent ve las imágenes y PDF que adjuntas, y un mensaje con más de 8 archivos te avisa cuáles no se adjuntaron. Publicado con el Product Blueprint de Fluvor no certificado (parcial)."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
