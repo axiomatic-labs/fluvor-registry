@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.387",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.387",
+    "version": "0.1.388",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.388",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.387",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.387"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.388",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.388"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.387/Fluvor-0.1.387-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.387/Fluvor-0.1.387-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.388/Fluvor-0.1.388-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.388/Fluvor-0.1.388-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.387/Fluvor-0.1.387-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.387/Fluvor-0.1.387-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.388/Fluvor-0.1.388-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.388/Fluvor-0.1.388-x64.dmg"
       }
     },
-    "notes": "El chat ya no acumula memoria en sesiones largas: el razonamiento del modelo quedaba montado fuera de la ventana del chat y una conversación larga podía llegar a 1,7 GB y mantener la CPU ocupada. Ahora el chat se mantiene acotado y el razonamiento, las filas de skill y las correcciones en vivo se guardan con la conversación. Publicado con el Product Blueprint de Fluvor no certificado (parcial)."
+    "notes": "Con /execute en pausa, enviar un mensaje ya no muestra una pregunta sobre el plan: el mensaje corre como un turno normal y el plan sigue en pausa, con Reanudar y Descartar en su tarjeta. La aprobación de un plan restaurado vuelve a respetar la opción elegida. Publicada con el Product Blueprint de Fluvor parcial (no certificado)."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
