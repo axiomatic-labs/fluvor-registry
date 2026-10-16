@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.386",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.386",
+    "version": "0.1.387",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.387",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.386",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.386"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.387",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.387"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.386/Fluvor-0.1.386-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.386/Fluvor-0.1.386-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.387/Fluvor-0.1.387-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.387/Fluvor-0.1.387-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.386/Fluvor-0.1.386-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.386/Fluvor-0.1.386-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.387/Fluvor-0.1.387-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.387/Fluvor-0.1.387-x64.dmg"
       }
     },
-    "notes": "/spec muestra el producto tomando forma: una card con las ocho etapas, lo que el modelo está haciendo en tus palabras, un medidor que dice exactamente qué falta y un resumen legible al publicar. Coherencia ya puede cerrar lo que exige (OCA queda completa). Prototype y Build reciben el blueprint aunque sea muy grande, y ningún documento, adjunto ni pedido llega recortado sin aviso a los agentes: /deep lee entero un adjunto largo, un @agent ve las imágenes y PDF que adjuntas, y un mensaje con más de 8 archivos te avisa cuáles no se adjuntaron. Publicado con el Product Blueprint de Fluvor no certificado (parcial)."
+    "notes": "El chat ya no acumula memoria en sesiones largas: el razonamiento del modelo quedaba montado fuera de la ventana del chat y una conversación larga podía llegar a 1,7 GB y mantener la CPU ocupada. Ahora el chat se mantiene acotado y el razonamiento, las filas de skill y las correcciones en vivo se guardan con la conversación. Publicado con el Product Blueprint de Fluvor no certificado (parcial)."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
