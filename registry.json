@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.388",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.388",
+    "version": "0.1.389",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.389",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.388",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.388"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.389",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.389"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.388/Fluvor-0.1.388-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.388/Fluvor-0.1.388-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.389/Fluvor-0.1.389-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.389/Fluvor-0.1.389-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.388/Fluvor-0.1.388-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.388/Fluvor-0.1.388-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.389/Fluvor-0.1.389-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.389/Fluvor-0.1.389-x64.dmg"
       }
     },
-    "notes": "Con /execute en pausa, enviar un mensaje ya no muestra una pregunta sobre el plan: el mensaje corre como un turno normal y el plan sigue en pausa, con Reanudar y Descartar en su tarjeta. La aprobación de un plan restaurado vuelve a respetar la opción elegida. Publicada con el Product Blueprint de Fluvor parcial (no certificado)."
+    "notes": "Lanzar tareas en paralelo ahora avanza por hechos de git: una tarea queda completa sólo con commits propios, Fluvor fusiona cada rama y sólo un conflicto abre una reparación, cada tarea que espera tu decisión muestra el motivo y sus botones, y «Fusionar el lote» lleva el resultado a tu rama tras confirmarlo. Los procesos en segundo plano cuyo control ya no existe dejan de figurar «Ejecutándose». Publicada con el Product Blueprint de Fluvor parcial (no certificado)."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
