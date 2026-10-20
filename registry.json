@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.390",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.390",
+    "version": "0.1.391",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.391",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.390",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.390"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.391",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.391"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.390/Fluvor-0.1.390-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.390/Fluvor-0.1.390-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.391/Fluvor-0.1.391-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.391/Fluvor-0.1.391-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.390/Fluvor-0.1.390-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.390/Fluvor-0.1.390-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.391/Fluvor-0.1.391-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.391/Fluvor-0.1.391-x64.dmg"
       }
     },
-    "notes": "Pantallas nuevas y rediseños con referencias estructurales de productos de primer nivel (en ambos motores, en prueba con el equipo). El motor ya no se reinicia cuando el modelo piensa en silencio: Fluvor avisa «el modelo no muestra novedades» y el turno sigue. Codex espera a sus herramientas antes del primer turno y muestra su plan de tareas. Las revisiones ya no se bloquean si falla la preparación del navegador, conservan lo que dijo un revisor rechazado y muestran su razonamiento en vivo. Blueprint parcial: esta versión se publica sin un Product Blueprint certificado (--accept-partial-spec)."
+    "notes": "Las confirmaciones y los avisos ya no quedan escondidos detrás de un modal: cerrar «Lanzar tareas en paralelo» durante un análisis vuelve a mostrar su confirmación, y los avisos de «Preparar borrador» se ven. Blueprint parcial: esta versión se publica sin un Product Blueprint certificado (--accept-partial-spec)."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
