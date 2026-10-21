@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.392",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.392",
+    "version": "0.1.393",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.393",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.392",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.392"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.393",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.393"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.392/Fluvor-0.1.392-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.392/Fluvor-0.1.392-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.393/Fluvor-0.1.393-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.393/Fluvor-0.1.393-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.392/Fluvor-0.1.392-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.392/Fluvor-0.1.392-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.393/Fluvor-0.1.393-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.393/Fluvor-0.1.393-x64.dmg"
       }
     },
-    "notes": "Lo que hace una sesión ya no aparece en otra: los cambios de archivos de una sesión en segundo plano se muestran sólo en esa sesión, y cada pestaña muestra sólo sus tareas finalizadas. Blueprint parcial: esta versión se publica sin un Product Blueprint certificado (--accept-partial-spec)."
+    "notes": "El chat se siente más suave: la conversación ya no salta bajo quien lee (la vista sigue el final con un resorte, y la tarjeta de actividad y los plegados animan su altura) y el texto de la respuesta crece en su lugar, sin backticks crudos ni saltos al llegar el texto final. Publicado con el Product Blueprint sin certificar (--accept-partial-spec)."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
