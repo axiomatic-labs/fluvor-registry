@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.395",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.395",
+    "version": "0.1.396",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.396",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.395",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.395"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.396",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.396"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.395/Fluvor-0.1.395-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.395/Fluvor-0.1.395-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.396/Fluvor-0.1.396-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.396/Fluvor-0.1.396-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.395/Fluvor-0.1.395-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.395/Fluvor-0.1.395-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.396/Fluvor-0.1.396-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.396/Fluvor-0.1.396-x64.dmg"
       }
     },
-    "notes": "Al aprobar un plan eliges cómo se ejecuta: «Aprobar y ejecutar en Auto» o «Aprobar y revisar cada cambio». La aprobación termina el turno del plan, lo guarda en .fluvor/plans/ y envía «Implementa el plan aprobado» como un mensaje tuyo, así la implementación se clasifica y recibe sus propias lentes, igual en Claude y en Codex. Las herramientas de Fluvor ya no piden aprobación en Revisión, y en Plan sólo las que no cambian nada. Publicado con el Product Blueprint sin certificar (--accept-partial-spec)."
+    "notes": "Aislado ahora es realmente aislado: Claude Code y Codex ya no leen sus memorias automáticas en ese modo. Ajustes → Contexto muestra qué lee el agente fuente por fuente (configuración del proyecto, tu configuración global, memoria de los motores y hooks), con lo que hay en disco, un botón para abrir cada ubicación y un interruptor por fuente. También declara lo que Codex lee siempre y no permite apagar. Publicado con el Product Blueprint sin certificar (--accept-partial-spec)."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
