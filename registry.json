@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.399",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.399",
+    "version": "0.1.400",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.400",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.399",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.399"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.400",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.400"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.399/Fluvor-0.1.399-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.399/Fluvor-0.1.399-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.400/Fluvor-0.1.400-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.400/Fluvor-0.1.400-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.399/Fluvor-0.1.399-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.399/Fluvor-0.1.399-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.400/Fluvor-0.1.400-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.400/Fluvor-0.1.400-x64.dmg"
       }
     },
-    "notes": "Corrige el idioma de las respuestas con Codex: si eliges en Perfil un idioma distinto del que escribes, Codex ahora responde en el idioma elegido (antes seguía el idioma de tu mensaje). Publicado con el Product Blueprint sin certificar (--accept-partial-spec)."
+    "notes": "El orquestador mira las referencias de diseño (captura nítida y estructura medida), registra su elección con lo que toma y lo que descarta, explica a fondo lo que construirá y el design-critic la juzga como marco declarado. La tarjeta «Diseño elegido» queda visible en el chat. Un sitio HTML estático ahora se sirve solo en la vista previa. Product Blueprint no certificado: publicado con --accept-partial-spec."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
