@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.397",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.397",
+    "version": "0.1.398",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.398",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.397",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.397"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.398",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.398"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.397/Fluvor-0.1.397-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.397/Fluvor-0.1.397-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.398/Fluvor-0.1.398-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.398/Fluvor-0.1.398-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.397/Fluvor-0.1.397-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.397/Fluvor-0.1.397-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.398/Fluvor-0.1.398-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.398/Fluvor-0.1.398-x64.dmg"
       }
     },
-    "notes": "Las tareas que el agente crea mientras trabaja ahora se guardan como las de /execute: sobreviven al reinicio de Fluvor, cada pedido conserva las suyas y las que quedaron sin terminar se pueden retomar desde el panel de tareas (o descartar). Una tarea que se cortó a la mitad aparece como «Interrumpida». Funciona con Claude y con Codex. Publicado con el Product Blueprint sin certificar (--accept-partial-spec)."
+    "notes": "Nuevo en Ajustes → Perfil: «Idioma de las respuestas». Escribe el idioma o el registro en que quieres que te responda el agente (por ejemplo «Español técnico», «English» o «Português»); vacío, responde en el idioma en que escribes. Con Claude se usa además su ajuste nativo de idioma, para que en turnos largos no se pase al inglés. También se traduce ahora el razonamiento corto en inglés que antes quedaba sin traducir. Publicado con el Product Blueprint sin certificar (--accept-partial-spec)."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
