@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.401",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.401",
+    "version": "0.1.402",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.402",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.401",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.401"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.402",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.402"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.401/Fluvor-0.1.401-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.401/Fluvor-0.1.401-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.402/Fluvor-0.1.402-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.402/Fluvor-0.1.402-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.401/Fluvor-0.1.401-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.401/Fluvor-0.1.401-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.402/Fluvor-0.1.402-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.402/Fluvor-0.1.402-x64.dmg"
       }
     },
-    "notes": "Las referencias de diseño ahora también guían los prototipos (botón Prototipo y /prototype): el orquestador las mira, registra su elección con lo que descarta, explica a fondo lo que construirá y el design-critic la juzga como marco declarado. Product Blueprint no certificado: publicado con --accept-partial-spec."
+    "notes": "Las referencias de diseño ahora llegan a toda interfaz que se construye o diseña, también a una UI nueva dentro de una pantalla existente (por ejemplo, un paso guiado en una tarjeta de Ajustes). Un registro nuevo explica por qué un turno con interfaz recibió o no referencias. Product Blueprint no certificado: publicado con --accept-partial-spec."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
