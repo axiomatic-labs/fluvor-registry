@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.405",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.405",
+    "version": "0.1.406",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.406",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.405",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.405"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.406",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.406"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.405/Fluvor-0.1.405-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.405/Fluvor-0.1.405-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.406/Fluvor-0.1.406-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.406/Fluvor-0.1.406-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.405/Fluvor-0.1.405-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.405/Fluvor-0.1.405-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.406/Fluvor-0.1.406-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.406/Fluvor-0.1.406-x64.dmg"
       }
     },
-    "notes": "Codex ahora se retoma solo cuando termina un comando que dejó corriendo en segundo plano: Fluvor le avisa el resultado (comando, código de salida y final de la salida), como ya ocurría con Claude, y el chat muestra que el agente retoma. Product Blueprint no certificado: publicado con --accept-partial-spec."
+    "notes": "El orquestador ahora revisa su propia pantalla como diseñador antes de entregar: la mira en escritorio y móvil, revisa de cerca cada control nuevo (selectores, insignias, campos) y corrige lo que no cumple; además construye mejor selectores, insignias de estado y pares etiqueta-valor. Codex cierra su plan antes de terminar el turno, y una tarea sólo aparece «Interrumpida» cuando hubo una interrupción real. Product Blueprint no certificado: publicado con --accept-partial-spec."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
