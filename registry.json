@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.407",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.407",
+    "version": "0.1.408",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.408",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.407",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.407"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.408",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.408"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.407/Fluvor-0.1.407-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.407/Fluvor-0.1.407-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.408/Fluvor-0.1.408-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.408/Fluvor-0.1.408-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.407/Fluvor-0.1.407-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.407/Fluvor-0.1.407-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.408/Fluvor-0.1.408-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.408/Fluvor-0.1.408-x64.dmg"
       }
     },
-    "notes": "Corrige un error que terminaba el turno con «Added line count did not match for hunk…» al mostrar una edición de Codex; la edición ya estaba hecha y ahora el turno sigue. Antes de construir una experiencia nueva, el orquestador describe el recorrido estado por estado y te pregunta si es lo que imaginabas; después verifica cada estado contra lo acordado. Antes de trabajar prepara sus herramientas: investiga en la web cuáles usan los mejores para ese trabajo, revisa cuáles ya están, instala las que faltan y te dice cuáles usará. Codex ahora puede hacerte preguntas con la tarjeta también fuera del modo Plan. Mejores reglas de interacción: nunca oculta acciones esperadas y los chats se comportan como se espera. Product Blueprint no certificado: publicado con --accept-partial-spec."
+    "notes": "Los chats largos ya no se vuelven más lentos a lo largo del día: cada guardado escribe sólo lo que cambió en vez de reescribir todo el historial (en un chat grande, de 58 MB a unos pocos bytes por guardado). Los chats guardados antes se siguen abriendo igual y se convierten solos la primera vez que se guardan. Product Blueprint no certificado: publicado con --accept-partial-spec."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
