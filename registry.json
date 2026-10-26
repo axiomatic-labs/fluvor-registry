@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.404",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.404",
+    "version": "0.1.405",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.405",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.404",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.404"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.405",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.405"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.404/Fluvor-0.1.404-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.404/Fluvor-0.1.404-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.405/Fluvor-0.1.405-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.405/Fluvor-0.1.405-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.404/Fluvor-0.1.404-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.404/Fluvor-0.1.404-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.405/Fluvor-0.1.405-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.405/Fluvor-0.1.405-x64.dmg"
       }
     },
-    "notes": "Refinar un plan con Codex ahora sigue el mismo flujo que con Claude: Codex planifica en su propio modo plan, la tarjeta del plan sólo aparece cuando propone uno, sus preguntas llegan a la tarjeta de preguntas y «Seguir refinando» te deja escribir el cambio en el chat. Product Blueprint no certificado: publicado con --accept-partial-spec."
+    "notes": "Codex ahora se retoma solo cuando termina un comando que dejó corriendo en segundo plano: Fluvor le avisa el resultado (comando, código de salida y final de la salida), como ya ocurría con Claude, y el chat muestra que el agente retoma. Product Blueprint no certificado: publicado con --accept-partial-spec."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
