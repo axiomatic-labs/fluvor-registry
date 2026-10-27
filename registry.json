@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.411",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.411",
+    "version": "0.1.412",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.412",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.411",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.411"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.412",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.412"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.411/Fluvor-0.1.411-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.411/Fluvor-0.1.411-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.412/Fluvor-0.1.412-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.412/Fluvor-0.1.412-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.411/Fluvor-0.1.411-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.411/Fluvor-0.1.411-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.412/Fluvor-0.1.412-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.412/Fluvor-0.1.412-x64.dmg"
       }
     },
-    "notes": "Las tabs del browser respetan la página que abriste: el servidor ya no la pisa al reanunciarse, al volver a la tab ni en otra ventana. La barra de dirección avisa cuando el texto no es una dirección y bloquea javascript:, file: y data:. Los enlaces que abren otra ventana abren una tab de Fluvor. Toda unidad tiene su tab. Mientras un revisor trabaja en móvil puedes volver a tu vista en escritorio, y el panel vuelve solo cuando el agente queda quieto. En el teléfono, Inicio muestra los proyectos abiertos para retomarlos o cerrarlos. Blueprint no certificado: publicado con --accept-partial-spec."
+    "notes": "Control remoto: la sección Perfil de Ajustes en el teléfono ahora es como los Ajustes de iOS. Cada preferencia muestra su ícono y nombre en una fila, las opciones como control segmentado a lo ancho y la explicación debajo. El título no repite la pestaña, la × es redonda y centrada, y abierta desde Inicio se llama «Configuración». Las descripciones de Optimización experta y Voz del asistente son más cortas. Blueprint no certificado: publicado con --accept-partial-spec."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
