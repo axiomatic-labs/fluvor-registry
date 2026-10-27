@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.410",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.410",
+    "version": "0.1.411",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.411",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.410",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.410"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.411",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.411"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.410/Fluvor-0.1.410-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.410/Fluvor-0.1.410-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.411/Fluvor-0.1.411-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.411/Fluvor-0.1.411-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.410/Fluvor-0.1.410-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.410/Fluvor-0.1.410-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.411/Fluvor-0.1.411-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.411/Fluvor-0.1.411-x64.dmg"
       }
     },
-    "notes": "Control remoto pensado para el teléfono. Vincular: si abres el link sin código, el teléfono te pide el código y lo acepta como lo ves (XXXX-XXXX); el popover copia el enlace con el código, muestra cuánto falta para que venza, avisa cuando el teléfono quedó vinculado y sugiere fijar la URL. En el teléfono: Inicio empieza por tus proyectos (Activos, Fijados, Recientes); el composer es una sola fila con lo esencial y el resto en «Más»; los menús suben desde abajo y se cierran deslizando o tocando el fondo; las tarjetas de pregunta se abren al frente; los diffs vienen plegados; avisos «te necesita» y «terminó»; y si no llega a tu computadora lo dice y tus mensajes esperan en cola. Las capturas de referencias de diseño ya cargan en el teléfono. En el chat ya no aparece JSON al responder una tarjeta y Detener confirma «Detuviste el turno». Blueprint no certificado: publicado con --accept-partial-spec."
+    "notes": "Las tabs del browser respetan la página que abriste: el servidor ya no la pisa al reanunciarse, al volver a la tab ni en otra ventana. La barra de dirección avisa cuando el texto no es una dirección y bloquea javascript:, file: y data:. Los enlaces que abren otra ventana abren una tab de Fluvor. Toda unidad tiene su tab. Mientras un revisor trabaja en móvil puedes volver a tu vista en escritorio, y el panel vuelve solo cuando el agente queda quieto. En el teléfono, Inicio muestra los proyectos abiertos para retomarlos o cerrarlos. Blueprint no certificado: publicado con --accept-partial-spec."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
