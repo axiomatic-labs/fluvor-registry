@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.412",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.412",
+    "version": "0.1.413",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.413",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.412",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.412"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.413",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.413"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.412/Fluvor-0.1.412-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.412/Fluvor-0.1.412-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.413/Fluvor-0.1.413-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.413/Fluvor-0.1.413-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.412/Fluvor-0.1.412-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.412/Fluvor-0.1.412-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.413/Fluvor-0.1.413-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.413/Fluvor-0.1.413-x64.dmg"
       }
     },
-    "notes": "Control remoto: la sección Perfil de Ajustes en el teléfono ahora es como los Ajustes de iOS. Cada preferencia muestra su ícono y nombre en una fila, las opciones como control segmentado a lo ancho y la explicación debajo. El título no repite la pestaña, la × es redonda y centrada, y abierta desde Inicio se llama «Configuración». Las descripciones de Optimización experta y Voz del asistente son más cortas. Blueprint no certificado: publicado con --accept-partial-spec."
+    "notes": "El panel del navegador muestra una sola cosa a la vez: elegir un navegador estando en Cambios ya no deja el diff pegado ni pinta el navegador encima de la lista. Una credencial guardada mientras el agente trabaja: el chat explica que ese turno no la ve, y un mensaje que la menciona con @ espera su propio turno, que arranca con ella cargada. El aviso de versión nueva descartado no vuelve hasta que salga otra versión. Las pestañas de servidor se pueden renombrar con doble clic y el nombre queda guardado. Blueprint no certificado: publicado con --accept-partial-spec."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
