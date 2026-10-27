@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.408",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.408",
+    "version": "0.1.409",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.409",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.408",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.408"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.409",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.409"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.408/Fluvor-0.1.408-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.408/Fluvor-0.1.408-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.409/Fluvor-0.1.409-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.409/Fluvor-0.1.409-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.408/Fluvor-0.1.408-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.408/Fluvor-0.1.408-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.409/Fluvor-0.1.409-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.409/Fluvor-0.1.409-x64.dmg"
       }
     },
-    "notes": "Los chats largos ya no se vuelven más lentos a lo largo del día: cada guardado escribe sólo lo que cambió en vez de reescribir todo el historial (en un chat grande, de 58 MB a unos pocos bytes por guardado). Los chats guardados antes se siguen abriendo igual y se convierten solos la primera vez que se guardan. Product Blueprint no certificado: publicado con --accept-partial-spec."
+    "notes": "Ante un error sin explicar, una regresión o un problema de rendimiento, el orquestador ahora lo reproduce y mide antes de tocar código, contrasta las dos causas más probables con un experimento, cambia sólo lo necesario y cierra diciendo qué causa se confirmó con el antes y el después. Después de construir una experiencia nueva la recorre como la persona en el navegador y revisa las heurísticas de usabilidad antes de entregar. Las preguntas y demás acciones de Fluvor ya no fallan por un texto demasiado largo. Product Blueprint no certificado: publicado con --accept-partial-spec."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
