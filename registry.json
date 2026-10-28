@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.414",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.414",
+    "version": "0.1.415",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.415",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.414",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.414"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.415",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.415"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.414/Fluvor-0.1.414-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.414/Fluvor-0.1.414-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.415/Fluvor-0.1.415-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.415/Fluvor-0.1.415-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.414/Fluvor-0.1.414-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.414/Fluvor-0.1.414-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.415/Fluvor-0.1.415-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.415/Fluvor-0.1.415-x64.dmg"
       }
     },
-    "notes": "Las pestañas del browser se ordenan arrastrándolas, como en Chrome: la pestaña sigue al cursor, las demás se corren, la franja se desplaza cerca de los bordes y Escape la devuelve a su lugar. El orden se guarda por proyecto y se mantiene al reiniciar. Blueprint no certificado: publicado con --accept-partial-spec."
+    "notes": "Codex ya no falla con «already has an active writer» al cambiar de perfil, de modo o al detener: Fluvor espera a que termine el proceso anterior antes de reanudar la conversación. Al salir de Plan, Codex vuelve al modo normal y puede escribir de nuevo. Blueprint no certificado: publicado con --accept-partial-spec."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
