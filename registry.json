@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.416",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.416",
+    "version": "0.1.417",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.417",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.416",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.416"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.417",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.417"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.416/Fluvor-0.1.416-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.416/Fluvor-0.1.416-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.417/Fluvor-0.1.417-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.417/Fluvor-0.1.417-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.416/Fluvor-0.1.416-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.416/Fluvor-0.1.416-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.417/Fluvor-0.1.417-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.417/Fluvor-0.1.417-x64.dmg"
       }
     },
-    "notes": "/execute lo planifica el orquestador en tu sesión: sin argumento planifica lo que te propuso, te muestra el plan para aprobarlo y avanza tarea por tarea sólo cuando la anterior quedó terminada. /debug y /fix trabajan en equipo: el orquestador reproduce el problema, reparte las hipótesis entre investigadores que comparten un tablero, concluye una sola causa y lo ves en una tarjeta propia; /fix repara con un test. /build queda oculto y lleva a /execute. Control remoto: el teléfono ve y detiene los procesos que ya corrían, los agentes, los comandos ! del computador y los servidores de desarrollo, con fichas más claras. Un agente terminado ya no reaparece como trabajando. Blueprint no certificado: publicado con --accept-partial-spec."
+    "notes": "Los avisos del control remoto nombran el proyecto en el título («mspress terminó», «mspress te necesita») y la sesión cuando hay más de una; tocarlos abre ese proyecto y esa sesión en el teléfono en vez de Inicio. Blueprint no certificado: publicado con --accept-partial-spec."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
