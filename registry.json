@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.418",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.418",
+    "version": "0.1.419",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.419",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.418",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.418"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.419",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.419"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.418/Fluvor-0.1.418-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.418/Fluvor-0.1.418-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.419/Fluvor-0.1.419-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.419/Fluvor-0.1.419-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.418/Fluvor-0.1.418-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.418/Fluvor-0.1.418-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.419/Fluvor-0.1.419-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.419/Fluvor-0.1.419-x64.dmg"
       }
     },
-    "notes": "Las respuestas se mantienen en el idioma elegido en Perfil durante turnos largos: Fluvor lo recuerda después de una cadena de herramientas cuando el modelo se desvía, y después de compactar el contexto (sólo Claude). La traducción del razonamiento ahora usa el idioma de Perfil, no sólo español. Blueprint no certificado: publicado con --accept-partial-spec."
+    "notes": "Control remoto: si el computador no responde, el teléfono muestra una página de Fluvor en vez del error de Cloudflare; con URL fija se reconecta sola y con URL temporal se revincula escaneando el código nuevo desde el mismo ícono, sin perder los avisos. Architect: las decisiones de infraestructura (colas, almacenamiento, email, proveedores, región) pasan por un agente que recomienda una sola opción con su costo y su análisis, también para ajustar, reemplazar o retirar lo existente; tus respuestas quedan en Ajustes → Decisiones, donde puedes eliminarlas, y se puede apagar por proyecto desde Revisores. Blueprint no certificado: publicado con --accept-partial-spec."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
