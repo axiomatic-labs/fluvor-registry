@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.421",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.421",
+    "version": "0.1.422",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.422",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.421",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.421"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.422",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.422"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.421/Fluvor-0.1.421-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.421/Fluvor-0.1.421-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.422/Fluvor-0.1.422-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.422/Fluvor-0.1.422-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.421/Fluvor-0.1.421-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.421/Fluvor-0.1.421-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.422/Fluvor-0.1.422-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.422/Fluvor-0.1.422-x64.dmg"
       }
     },
-    "notes": "Control remoto: el teléfono ya no muestra el aviso de versión nueva, que no podía instalar desde ahí y ocupaba la fila de fichas. Blueprint no certificado: publicado con --accept-partial-spec."
+    "notes": "Las respuestas del agente vuelven a aparecer al final del chat aunque haya un mensaje en pausa, y reanudar ese mensaje lo lleva al final. Una pregunta del agente cuyo turno o sesión terminó se cierra con un aviso, en vez de quedar con un Responder que no hace nada. Un mensaje enviado mientras se cancela un turno se envía al terminar la cancelación. Blueprint no certificado: publicado con --accept-partial-spec."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
@@ -29,10 +29,10 @@
       "revoked": false
     }
   },
-  "issuedAt": "2026-10-30T11:14:39.117Z",
+  "issuedAt": "2026-10-30T19:06:16.357Z",
   "signature": {
     "alg": "Ed25519",
     "keyId": "a0abab943be040c386b8d2b1",
-    "sig": "laELiCesi08RWfeoZO6DCUWwCW7MhCGQFIjV/S3vpezdik2TxZ3FQ+rU1Jzm5mo6I3/8Cb4dhiM941wTBBo/Bg=="
+    "sig": "B8dFdlZDoEMK3eOTxxjozmfujD2Lo10hlLyDLmJMTUTRdUQ/EJO6pA9yaYMEqiPitzxUSSJBpyDKuoLhh2l5Dw=="
   }
 }
