@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.422",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.422",
+    "version": "0.1.423",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.423",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.422",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.422"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.423",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.423"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.422/Fluvor-0.1.422-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.422/Fluvor-0.1.422-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.423/Fluvor-0.1.423-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.423/Fluvor-0.1.423-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.422/Fluvor-0.1.422-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.422/Fluvor-0.1.422-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.423/Fluvor-0.1.423-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.423/Fluvor-0.1.423-x64.dmg"
       }
     },
-    "notes": "Las respuestas del agente vuelven a aparecer al final del chat aunque haya un mensaje en pausa, y reanudar ese mensaje lo lleva al final. Una pregunta del agente cuyo turno o sesión terminó se cierra con un aviso, en vez de quedar con un Responder que no hace nada. Un mensaje enviado mientras se cancela un turno se envía al terminar la cancelación. Blueprint no certificado: publicado con --accept-partial-spec."
+    "notes": "Al aprobar un plan en Claude, la sesión sale de verdad del modo plan: ya no vuelve a pedir aprobación después de compactar. El cambio de modo en vivo también funciona en sesiones que arrancaron en Plan. Blueprint no certificado: publicado con --accept-partial-spec."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
@@ -29,10 +29,10 @@
       "revoked": false
     }
   },
-  "issuedAt": "2026-10-30T19:06:16.357Z",
+  "issuedAt": "2026-10-30T22:52:22.575Z",
   "signature": {
     "alg": "Ed25519",
     "keyId": "a0abab943be040c386b8d2b1",
-    "sig": "B8dFdlZDoEMK3eOTxxjozmfujD2Lo10hlLyDLmJMTUTRdUQ/EJO6pA9yaYMEqiPitzxUSSJBpyDKuoLhh2l5Dw=="
+    "sig": "T9WLYFlY9QbIkZ7J+Xop+9VHQgOD/oOTeOFJJmtor+wc/RtuuuVw2Pm7QG5Gzm4OcJNoM7uRgtW8T8087cmCDw=="
   }
 }
