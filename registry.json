@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.420",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.420",
+    "version": "0.1.421",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.421",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.420",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.420"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.421",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.421"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.420/Fluvor-0.1.420-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.420/Fluvor-0.1.420-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.421/Fluvor-0.1.421-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.421/Fluvor-0.1.421-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.420/Fluvor-0.1.420-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.420/Fluvor-0.1.420-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.421/Fluvor-0.1.421-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.421/Fluvor-0.1.421-x64.dmg"
       }
     },
-    "notes": "Fluvor queda más protegido contra la ingeniería inversa: textos ocultos, runtime endurecido, motores verificados al arrancar y sin modo Node ni depurador. Las instrucciones de Fluvor ya no quedan en la transcripción local de Claude Code. El registro de licencias va firmado y el período sin conexión ya no se puede extender editando archivos. La vinculación del teléfono limita los intentos fallidos por cliente. El clasificador con Codex ya no deja sin clasificar un pedido operativo. Blueprint no certificado: publicado con --accept-partial-spec."
+    "notes": "Control remoto: el teléfono ya no muestra el aviso de versión nueva, que no podía instalar desde ahí y ocupaba la fila de fichas. Blueprint no certificado: publicado con --accept-partial-spec."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
@@ -29,10 +29,10 @@
       "revoked": false
     }
   },
-  "issuedAt": "2026-10-29T21:13:25.192Z",
+  "issuedAt": "2026-10-30T11:14:39.117Z",
   "signature": {
     "alg": "Ed25519",
     "keyId": "a0abab943be040c386b8d2b1",
-    "sig": "qKGxqXiTQGRH8iIMxyAVnnTZidAwrTi/qRanU8F2c96qODTr6rqIMOrfWiY7/OWhTOHk2LuXefGTl8h60kJpAg=="
+    "sig": "laELiCesi08RWfeoZO6DCUWwCW7MhCGQFIjV/S3vpezdik2TxZ3FQ+rU1Jzm5mo6I3/8Cb4dhiM941wTBBo/Bg=="
   }
 }
