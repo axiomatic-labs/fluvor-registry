@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.424",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.424",
+    "version": "0.1.425",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.425",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.424",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.424"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.425",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.425"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.424/Fluvor-0.1.424-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.424/Fluvor-0.1.424-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.425/Fluvor-0.1.425-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.425/Fluvor-0.1.425-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.424/Fluvor-0.1.424-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.424/Fluvor-0.1.424-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.425/Fluvor-0.1.425-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.425/Fluvor-0.1.425-x64.dmg"
       }
     },
-    "notes": "El architect ahora revisa por su cuenta cómo se construye y despliega el proyecto: CI, deploy, infraestructura como código, protección de datos, secretos, respaldos y observabilidad. Al terminar un turno de trabajo muestra hasta tres recomendaciones sobre el composer; aprobar una la implementa, «No» no se vuelve a sugerir y puedes apagar la revisión por proyecto. Las bases de datos y el almacenamiento quedan con protección contra borrado, lo existente se importa sin recrearse, y nunca se ejecuta terraform apply ni destroy. Blueprint no certificado: publicado con --accept-partial-spec."
+    "notes": "En el teléfono, si cierras Fluvor con el chat abierto, la app pasa sola a la pantalla de Fluvor sin conexión: con dirección temporal ofrece escanear el QR nuevo y con dirección fija vuelve sola cuando Fluvor regresa. La franja «Compactando…» ya no queda pegada si el teléfono se perdió el fin de la compactación, y «Modo plan desactivado» deja de aparecer al entrar a cada proyecto. Blueprint no certificado: publicado con --accept-partial-spec."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
@@ -29,10 +29,10 @@
       "revoked": false
     }
   },
-  "issuedAt": "2026-10-31T03:25:33.685Z",
+  "issuedAt": "2026-10-31T12:06:04.164Z",
   "signature": {
     "alg": "Ed25519",
     "keyId": "a0abab943be040c386b8d2b1",
-    "sig": "0cYTFlPJPbwO0RvJP866dcGQFq64LEEbe5K+a1CoZ6dntpR48ws7qQk3G1skvccQu/R4CsTHz08F8tBDh2EqDg=="
+    "sig": "5fJyfMX+L1HTg5+doketI+c5OoBX1YMXGi9PFZtwV24jKuDn7ZMGV48TqKlyAr2O6bvZ7WHwWDtppSIwUzNJDg=="
   }
 }
