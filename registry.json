@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.425",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.425",
+    "version": "0.1.426",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.426",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.425",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.425"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.426",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.426"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.425/Fluvor-0.1.425-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.425/Fluvor-0.1.425-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.426/Fluvor-0.1.426-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.426/Fluvor-0.1.426-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.425/Fluvor-0.1.425-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.425/Fluvor-0.1.425-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.426/Fluvor-0.1.426-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.426/Fluvor-0.1.426-x64.dmg"
       }
     },
-    "notes": "En el teléfono, si cierras Fluvor con el chat abierto, la app pasa sola a la pantalla de Fluvor sin conexión: con dirección temporal ofrece escanear el QR nuevo y con dirección fija vuelve sola cuando Fluvor regresa. La franja «Compactando…» ya no queda pegada si el teléfono se perdió el fin de la compactación, y «Modo plan desactivado» deja de aparecer al entrar a cada proyecto. Blueprint no certificado: publicado con --accept-partial-spec."
+    "notes": "Capturas agrupadas por mensaje: cada captura que toman el orquestador y los revisores queda bajo el prompt que la causó, en su propio proyecto y sesión, con una galería para verlas y borrarlas, también en el teléfono. Tareas finalizadas suma «Eliminar todas». Control remoto: otro Fluvor que responda en la misma dirección ya no desvincula el teléfono, y una instancia de prueba ya no se suma al túnel de URL fija. Blueprint no certificado: publicado con --accept-partial-spec."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
@@ -29,10 +29,10 @@
       "revoked": false
     }
   },
-  "issuedAt": "2026-10-31T12:06:04.164Z",
+  "issuedAt": "2026-11-01T15:49:41.942Z",
   "signature": {
     "alg": "Ed25519",
     "keyId": "a0abab943be040c386b8d2b1",
-    "sig": "5fJyfMX+L1HTg5+doketI+c5OoBX1YMXGi9PFZtwV24jKuDn7ZMGV48TqKlyAr2O6bvZ7WHwWDtppSIwUzNJDg=="
+    "sig": "hvkl0jxpIjLNhjHauw8wguP6huWfAQIMB7NHyN42Ri4q1e1N4HkHbLawOLYGNurStyVawma8sbHS8+RU0++TDQ=="
   }
 }
