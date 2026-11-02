@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.426",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.426",
+    "version": "0.1.427",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.427",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.426",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.426"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.427",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.427"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.426/Fluvor-0.1.426-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.426/Fluvor-0.1.426-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.427/Fluvor-0.1.427-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.427/Fluvor-0.1.427-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.426/Fluvor-0.1.426-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.426/Fluvor-0.1.426-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.427/Fluvor-0.1.427-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.427/Fluvor-0.1.427-x64.dmg"
       }
     },
-    "notes": "Capturas agrupadas por mensaje: cada captura que toman el orquestador y los revisores queda bajo el prompt que la causó, en su propio proyecto y sesión, con una galería para verlas y borrarlas, también en el teléfono. Tareas finalizadas suma «Eliminar todas». Control remoto: otro Fluvor que responda en la misma dirección ya no desvincula el teléfono, y una instancia de prueba ya no se suma al túnel de URL fija. Blueprint no certificado: publicado con --accept-partial-spec."
+    "notes": "Visor de capturas: las flechas ya no se corren de una captura a otra; una captura grande o alta de móvil queda entera dentro de su área, en el escritorio y en el teléfono. Blueprint no certificado: publicado con --accept-partial-spec."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
@@ -29,10 +29,10 @@
       "revoked": false
     }
   },
-  "issuedAt": "2026-11-01T15:49:41.942Z",
+  "issuedAt": "2026-11-02T03:16:26.702Z",
   "signature": {
     "alg": "Ed25519",
     "keyId": "a0abab943be040c386b8d2b1",
-    "sig": "hvkl0jxpIjLNhjHauw8wguP6huWfAQIMB7NHyN42Ri4q1e1N4HkHbLawOLYGNurStyVawma8sbHS8+RU0++TDQ=="
+    "sig": "/YDN3ZQdaS/86hoedhFfSqtWjUQ8y7li9m86X97W0yfZWFDl8Y0MRUpzK2+RuNSfC2rHlzsFg/a3YB0IRp6KCA=="
   }
 }
