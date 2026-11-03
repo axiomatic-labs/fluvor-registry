@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.430",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.430",
+    "version": "0.1.431",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.431",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.430",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.430"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.431",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.431"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.430/Fluvor-0.1.430-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.430/Fluvor-0.1.430-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.431/Fluvor-0.1.431-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.431/Fluvor-0.1.431-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.430/Fluvor-0.1.430-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.430/Fluvor-0.1.430-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.431/Fluvor-0.1.431-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.431/Fluvor-0.1.431-x64.dmg"
       }
     },
-    "notes": "Editar o reenviar un mensaje ya no termina en «El turno no se completó» ni deja la conversación vacía: sigue desde la copia que hace el motor y, si no puede, con el historial anterior guardado en Fluvor. Blueprint no certificado: publicado con --accept-partial-spec."
+    "notes": "Lanzar tareas en paralelo desde una sesión ahora continúa esa conversación: cada tarea nace como copia nativa de la sesión de origen, en su propio worktree, y conserva lo que se habló antes. Blueprint no certificado: publicado con --accept-partial-spec."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
@@ -29,10 +29,10 @@
       "revoked": false
     }
   },
-  "issuedAt": "2026-11-03T15:30:48.069Z",
+  "issuedAt": "2026-11-03T16:59:22.643Z",
   "signature": {
     "alg": "Ed25519",
     "keyId": "a0abab943be040c386b8d2b1",
-    "sig": "amMXaM5ub/JPbAWud6XSjq2hK+V5YOsW/EuFY5FBKNOfGzGCazbwHUr1tO9usKkwB5CUHwCa3ovbkWWe322NBg=="
+    "sig": "osMt3b+cPvyFw+7+77ioZinFeHqef3nez+M1ybxaZiPrie89EDsYtSiCtHguDGGh/bFHOaIHgwhel3py4TZXAA=="
   }
 }
