@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.427",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.427",
+    "version": "0.1.428",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.428",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.427",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.427"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.428",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.428"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.427/Fluvor-0.1.427-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.427/Fluvor-0.1.427-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.428/Fluvor-0.1.428-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.428/Fluvor-0.1.428-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.427/Fluvor-0.1.427-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.427/Fluvor-0.1.427-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.428/Fluvor-0.1.428-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.428/Fluvor-0.1.428-x64.dmg"
       }
     },
-    "notes": "Visor de capturas: las flechas ya no se corren de una captura a otra; una captura grande o alta de móvil queda entera dentro de su área, en el escritorio y en el teléfono. Blueprint no certificado: publicado con --accept-partial-spec."
+    "notes": "Bifurcar sesión: /fork abre una sesión nueva que sigue la misma conversación, con su contexto real en Claude y en Codex, en un worktree propio o en la misma carpeta; la sesión original no cambia. Blueprint no certificado: publicado con --accept-partial-spec."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
@@ -29,10 +29,10 @@
       "revoked": false
     }
   },
-  "issuedAt": "2026-11-02T03:16:26.702Z",
+  "issuedAt": "2026-11-03T01:49:32.877Z",
   "signature": {
     "alg": "Ed25519",
     "keyId": "a0abab943be040c386b8d2b1",
-    "sig": "/YDN3ZQdaS/86hoedhFfSqtWjUQ8y7li9m86X97W0yfZWFDl8Y0MRUpzK2+RuNSfC2rHlzsFg/a3YB0IRp6KCA=="
+    "sig": "fX4QsYeB5gkXwtx++KnSeVa7CaUMSo/7U9NzjBaA9HBudGoBAFl/4xQdvXu+LRH/RqtG0wpzSfuIQJdn5X5YDQ=="
   }
 }
