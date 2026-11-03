@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.431",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.431",
+    "version": "0.1.432",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.432",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.431",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.431"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.432",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.432"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.431/Fluvor-0.1.431-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.431/Fluvor-0.1.431-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.432/Fluvor-0.1.432-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.432/Fluvor-0.1.432-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.431/Fluvor-0.1.431-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.431/Fluvor-0.1.431-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.432/Fluvor-0.1.432-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.432/Fluvor-0.1.432-x64.dmg"
       }
     },
-    "notes": "Lanzar tareas en paralelo desde una sesión ahora continúa esa conversación: cada tarea nace como copia nativa de la sesión de origen, en su propio worktree, y conserva lo que se habló antes. Blueprint no certificado: publicado con --accept-partial-spec."
+    "notes": "/execute puede ejecutar el plan con un equipo de agentes en paralelo: cada agente trabaja en su worktree como copia de la conversación, la integración revisa el conjunto y avisa cuando está listo para fusionar. Al fusionar, la sesión de origen recibe un aviso para revisar el resultado y puede deshacer la fusión. Las tareas del plan que no empezaron se pueden quitar y volver a incluir. Un equipo fusionado borra sus ramas al quitarlo de la lista, y el selector de ramas limpia las ramas de Fluvor ya fusionadas. Blueprint no certificado: publicado con --accept-partial-spec."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
@@ -29,10 +29,10 @@
       "revoked": false
     }
   },
-  "issuedAt": "2026-11-03T16:59:22.643Z",
+  "issuedAt": "2026-11-03T22:48:26.033Z",
   "signature": {
     "alg": "Ed25519",
     "keyId": "a0abab943be040c386b8d2b1",
-    "sig": "osMt3b+cPvyFw+7+77ioZinFeHqef3nez+M1ybxaZiPrie89EDsYtSiCtHguDGGh/bFHOaIHgwhel3py4TZXAA=="
+    "sig": "J6Djkxbnd5UeUOJUTjzCTaCCRSslyQinJcf7dXmNEgMlhI6wMBdPJwKPIZenDyq/rTiBOQmw3cbhWuFvxsERBQ=="
   }
 }
