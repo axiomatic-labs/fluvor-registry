@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.429",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.429",
+    "version": "0.1.430",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.430",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.429",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.429"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.430",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.430"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.429/Fluvor-0.1.429-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.429/Fluvor-0.1.429-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.430/Fluvor-0.1.430-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.430/Fluvor-0.1.430-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.429/Fluvor-0.1.429-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.429/Fluvor-0.1.429-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.430/Fluvor-0.1.430-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.430/Fluvor-0.1.430-x64.dmg"
       }
     },
-    "notes": "Corregido: una corrección enviada mientras el strategist escribía el corte de producto hacía que el corte terminado se descartara como «validation failed» y se relanzara desde cero. Ahora el corte se entrega y la corrección se aplica encima. Blueprint no certificado: publicado con --accept-partial-spec."
+    "notes": "Editar o reenviar un mensaje ya no termina en «El turno no se completó» ni deja la conversación vacía: sigue desde la copia que hace el motor y, si no puede, con el historial anterior guardado en Fluvor. Blueprint no certificado: publicado con --accept-partial-spec."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
@@ -29,10 +29,10 @@
       "revoked": false
     }
   },
-  "issuedAt": "2026-11-03T12:42:40.675Z",
+  "issuedAt": "2026-11-03T15:30:48.069Z",
   "signature": {
     "alg": "Ed25519",
     "keyId": "a0abab943be040c386b8d2b1",
-    "sig": "FjqDzOzbbddjrEmldQDx0bwfAVgxgi77HQQ5sCYDdzvqAWYo1aFN2vEbTFpPoWNkfubRtTmM1enmuNHvItvdBg=="
+    "sig": "amMXaM5ub/JPbAWud6XSjq2hK+V5YOsW/EuFY5FBKNOfGzGCazbwHUr1tO9usKkwB5CUHwCa3ovbkWWe322NBg=="
   }
 }
