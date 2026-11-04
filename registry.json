@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.434",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.434",
+    "version": "0.1.435",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.435",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.434",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.434"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.435",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.435"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.434/Fluvor-0.1.434-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.434/Fluvor-0.1.434-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.435/Fluvor-0.1.435-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.435/Fluvor-0.1.435-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.434/Fluvor-0.1.434-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.434/Fluvor-0.1.434-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.435/Fluvor-0.1.435-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.435/Fluvor-0.1.435-x64.dmg"
       }
     },
-    "notes": "Cada sesión en worktree (sesiones aisladas, /fork, lotes y equipos) tiene su propia vista previa: al abrirla, el panel muestra las unidades de ese worktree y levanta la principal en su propio puerto, sin chocar con la carpeta principal ni con otros worktrees. El agente y tú ven el mismo servidor, y los revisores revisan la app del worktree, nunca la de la carpeta principal. Blueprint no certificado: publicado con --accept-partial-spec."
+    "notes": "Corrección: cuando Claude retoma solo una conversación al terminar una tarea en segundo plano, la sesión ahora se ve trabajando, se puede detener y un mensaje enviado en ese momento se incorpora a ese turno en vez de quedar esperando hasta que termine. Blueprint no certificado: publicado con --accept-partial-spec."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
@@ -29,10 +29,10 @@
       "revoked": false
     }
   },
-  "issuedAt": "2026-11-04T01:40:26.901Z",
+  "issuedAt": "2026-11-04T13:59:53.592Z",
   "signature": {
     "alg": "Ed25519",
     "keyId": "a0abab943be040c386b8d2b1",
-    "sig": "vohysTUQ5EqcG2eMYc9dctErMEAfLdUMH1i92siqmnrvdxeKiiReNFQhk7sv1RbvX7IIGKEflmN9amlKyplrDg=="
+    "sig": "3kULxjgxMvZTRTZO7muvuAhbcdwmgywTE7acEEh4tE+T3x9AMjj0szaOlKlGX1Uk37iWRAT8qdQZP+ozgkrtCA=="
   }
 }
