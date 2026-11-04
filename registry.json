@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.433",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.433",
+    "version": "0.1.434",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.434",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.433",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.433"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.434",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.434"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.433/Fluvor-0.1.433-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.433/Fluvor-0.1.433-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.434/Fluvor-0.1.434-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.434/Fluvor-0.1.434-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.433/Fluvor-0.1.433-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.433/Fluvor-0.1.433-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.434/Fluvor-0.1.434-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.434/Fluvor-0.1.434-x64.dmg"
       }
     },
-    "notes": "Cada worktree nuevo (sesión aislada, /fork, lotes y equipos) arranca con todo lo que git ignora en el repositorio principal: los .env de cada carpeta, la configuración local, las dependencias, los builds y las cachés, sin listas que mantener. Ajustes → Worktrees permite un comando de preparación por proyecto, y el agente sabe qué recibió y su offset de puertos. En /execute con equipo, el plan muestra antes de aprobar qué espera cada tarea, y una tarea que espera su proceso en segundo plano ya no aparece como detenida. Blueprint no certificado: publicado con --accept-partial-spec."
+    "notes": "Cada sesión en worktree (sesiones aisladas, /fork, lotes y equipos) tiene su propia vista previa: al abrirla, el panel muestra las unidades de ese worktree y levanta la principal en su propio puerto, sin chocar con la carpeta principal ni con otros worktrees. El agente y tú ven el mismo servidor, y los revisores revisan la app del worktree, nunca la de la carpeta principal. Blueprint no certificado: publicado con --accept-partial-spec."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
@@ -29,10 +29,10 @@
       "revoked": false
     }
   },
-  "issuedAt": "2026-11-04T01:07:08.031Z",
+  "issuedAt": "2026-11-04T01:40:26.901Z",
   "signature": {
     "alg": "Ed25519",
     "keyId": "a0abab943be040c386b8d2b1",
-    "sig": "0ABKBGyoGjQ13ZiesWXQM7Y1AXDq102euppQXK2H/S65wi2ZazI6IOOc4y72mC7scpllLimBk/0UuuvNElgYBA=="
+    "sig": "vohysTUQ5EqcG2eMYc9dctErMEAfLdUMH1i92siqmnrvdxeKiiReNFQhk7sv1RbvX7IIGKEflmN9amlKyplrDg=="
   }
 }
