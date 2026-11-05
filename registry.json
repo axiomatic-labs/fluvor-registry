@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.438",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.438",
+    "version": "0.1.439",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.439",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.438",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.438"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.439",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.439"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.438/Fluvor-0.1.438-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.438/Fluvor-0.1.438-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.439/Fluvor-0.1.439-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.439/Fluvor-0.1.439-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.438/Fluvor-0.1.438-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.438/Fluvor-0.1.438-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.439/Fluvor-0.1.439-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.439/Fluvor-0.1.439-x64.dmg"
       }
     },
-    "notes": "Los agentes de un equipo reciben las credenciales de prueba y el perfil del proyecto aunque trabajen en su worktree. El tablero y la barra del equipo avisan cuando un agente espera tu respuesta (una pregunta, una aprobación, un plan, una credencial o un puerto que liberar), ofrecen «Ver su vista previa» y dicen qué tarea espera cada una. Un agente que terminó con cambios sin commitear ya no se detiene a pedir tu decisión: Fluvor le pide que lo termine. «Liberar y reintentar» conserva el puerto del worktree y nunca detiene un servidor de otra sesión ni de tu checkout principal. Blueprint no certificado: publicado con --accept-partial-spec."
+    "notes": "Equipos y worktrees: cada servidor de un worktree arranca en su propio puerto (su puerto real más el offset de la sesión), también cuando el puerto vive en el .env o la herramienta ignora PORT, y los .env copiados apuntan a los servicios del mismo worktree; dos servidores de una sesión ya no reciben el mismo puerto; la tarjeta de conflicto nombra la unidad y no ofrece liberar un puerto fijo en el código. Una tarea terminada que deja un servidor corriendo ya no frena al equipo, y la revisión del conjunto no se anuncia lista para fusionar mientras sus pruebas siguen corriendo. El aviso de archivos compartidos nombra a los agentes. Blueprint no certificado: publicado con --accept-partial-spec."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
@@ -29,10 +29,10 @@
       "revoked": false
     }
   },
-  "issuedAt": "2026-11-05T19:00:08.459Z",
+  "issuedAt": "2026-11-05T20:47:15.895Z",
   "signature": {
     "alg": "Ed25519",
     "keyId": "a0abab943be040c386b8d2b1",
-    "sig": "sfoIFcfVCO7U+/sp2XBjcllJWdvXjz/hMo92txVa2Mz1rupMQpUJCPwWzh3KY5TTpyWOwNQKP6CJxvdsvju2DQ=="
+    "sig": "oAaJnUKshB2clY7TmywNZ+P3yZ6dSepemgrhAbZE98zzL5bVqDmZfJFGpmVqCcg5oFctnio5uAp1Lm7ZVfiHAA=="
   }
 }
