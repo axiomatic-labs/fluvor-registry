@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.441",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.441",
+    "version": "0.1.442",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.442",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.441",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.441"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.442",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.442"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.441/Fluvor-0.1.441-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.441/Fluvor-0.1.441-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.442/Fluvor-0.1.442-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.442/Fluvor-0.1.442-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.441/Fluvor-0.1.441-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.441/Fluvor-0.1.441-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.442/Fluvor-0.1.442-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.442/Fluvor-0.1.442-x64.dmg"
       }
     },
-    "notes": "Equipos: «Pausar el equipo» y «Reanudar el equipo»; al reanudar, cada tarea cortada sigue donde quedó en su conversación, y al reabrir Fluvor con trabajo a medias el equipo queda en pausa con un solo botón. Lo que un agente deja corriendo en su worktree (servidores, Chrome de puppeteer) se detiene al cerrar su sesión, al terminar sus tareas y al cerrar Fluvor; «Procesos» lo muestra con un botón para detenerlo, y las carpetas de worktrees que quedaron a medio borrar se limpian al abrir el proyecto. El teléfono muestra el equipo, abre la sesión de cada agente y permite fusionar, descartar y deshacer. «Ver su vista previa» aparece solo mientras el agente usa su navegador. El servidor que un agente ya levantó se muestra en vez de pedir liberar su puerto, y los puertos de cada worktree ya no chocan entre unidades ni sesiones. El navegador de un agente ya no se pinta encima del tablero ni de Ajustes. Claude ya no aparece sin sesión la primera vez que se abre Fluvor tras instalar o actualizar. Blueprint no certificado: publicado con --accept-partial-spec."
+    "notes": "Usar una API key en vez de la cuenta, en Claude y en Codex, desde Ajustes → Modelo y motor → Cuentas de motor. Al quitarla vuelve tu cuenta; en Codex, tu sesión de ChatGPT intacta. Fluvor ya no muestra Codex como desconectado cuando entra con API key. La carpeta de worktrees queda fuera de Time Machine también si se recrea. Blueprint no certificado: publicado con --accept-partial-spec."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
@@ -29,10 +29,10 @@
       "revoked": false
     }
   },
-  "issuedAt": "2026-11-06T10:36:08.560Z",
+  "issuedAt": "2026-11-07T01:33:06.375Z",
   "signature": {
     "alg": "Ed25519",
     "keyId": "a0abab943be040c386b8d2b1",
-    "sig": "RXQ1m42vFHCpd7qxZgt+DGHFY9lnw3G3IGwhWlE1nBEOSeFi5zYx0VN64FjrEfIxBjZDe80Bc0CiWwf4lQK/BA=="
+    "sig": "VIRogRJEiEKQiT+HWRamCVjP5BVaUZB42hkXbTP9MbA//KuqjCAMVaYhaXl7zu117vBnmhvUhF8NQiO2hxw2Aw=="
   }
 }
