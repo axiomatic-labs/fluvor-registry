@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.442",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.442",
+    "version": "0.1.443",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.443",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.442",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.442"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.443",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.443"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.442/Fluvor-0.1.442-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.442/Fluvor-0.1.442-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.443/Fluvor-0.1.443-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.443/Fluvor-0.1.443-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.442/Fluvor-0.1.442-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.442/Fluvor-0.1.442-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.443/Fluvor-0.1.443-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.443/Fluvor-0.1.443-x64.dmg"
       }
     },
-    "notes": "Usar una API key en vez de la cuenta, en Claude y en Codex, desde Ajustes → Modelo y motor → Cuentas de motor. Al quitarla vuelve tu cuenta; en Codex, tu sesión de ChatGPT intacta. Fluvor ya no muestra Codex como desconectado cuando entra con API key. La carpeta de worktrees queda fuera de Time Machine también si se recrea. Blueprint no certificado: publicado con --accept-partial-spec."
+    "notes": "El panel de sesiones se ensancha arrastrando su borde, como el chat: la vista previa se corre con él, el ancho queda guardado por proyecto, y un doble clic lo devuelve a su tamaño. Al abrir Fluvor con un proyecto, el panel de sesiones vuelve como lo dejaste. Blueprint no certificado: publicado con --accept-partial-spec."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
@@ -29,10 +29,10 @@
       "revoked": false
     }
   },
-  "issuedAt": "2026-11-07T01:33:06.375Z",
+  "issuedAt": "2026-11-09T14:19:57.913Z",
   "signature": {
     "alg": "Ed25519",
     "keyId": "a0abab943be040c386b8d2b1",
-    "sig": "VIRogRJEiEKQiT+HWRamCVjP5BVaUZB42hkXbTP9MbA//KuqjCAMVaYhaXl7zu117vBnmhvUhF8NQiO2hxw2Aw=="
+    "sig": "J2Ex6VJOlSW860+tOA1bKNge76miyKFWTJXs5eperES2cAoHXL2dgQcqytbkTZnv/e6w/62wdokkbK2PSftODw=="
   }
 }
