@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.444",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.444",
+    "version": "0.1.445",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.445",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.444",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.444"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.445",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.445"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.444/Fluvor-0.1.444-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.444/Fluvor-0.1.444-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.445/Fluvor-0.1.445-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.445/Fluvor-0.1.445-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.444/Fluvor-0.1.444-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.444/Fluvor-0.1.444-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.445/Fluvor-0.1.445-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.445/Fluvor-0.1.445-x64.dmg"
       }
     },
-    "notes": "Un equipo de agentes ya no despliega su trabajo antes de que lo fusiones: desplegar, publicar y hacer push dejan de ser tareas del plan y van después, desde tu rama. Blueprint no certificado: publicado con --accept-partial-spec."
+    "notes": "Los textos de las pantallas que construye el agente se escriben con la gramática de su idioma, también los títulos, etiquetas y estados: los datos se unen con palabras y no con separadores, y se evitan los calcos del inglés. La revisión de diseño marca esos casos. Blueprint no certificado: publicado con --accept-partial-spec."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
@@ -29,10 +29,10 @@
       "revoked": false
     }
   },
-  "issuedAt": "2026-11-09T17:21:46.289Z",
+  "issuedAt": "2026-11-10T13:57:07.639Z",
   "signature": {
     "alg": "Ed25519",
     "keyId": "a0abab943be040c386b8d2b1",
-    "sig": "LxaJ8TjHYb85dheYWbrZTbOfq0QVlHsFnLITSH68Yf+UQpw422LgRqPEYQ0gLE3tAdORzPEkgeK1eNqXi7PdCQ=="
+    "sig": "Muw50tJ3t7oZejEgU5N/zzXjYlbcug2b0b4gx7oAl4YFVS9txm63tuj9lL/9i3gTIVxF5F+AylobdE6SsnS4DQ=="
   }
 }
