@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.446",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.446",
+    "version": "0.1.447",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.447",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.446",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.446"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.447",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.447"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.446/Fluvor-0.1.446-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.446/Fluvor-0.1.446-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.447/Fluvor-0.1.447-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.447/Fluvor-0.1.447-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.446/Fluvor-0.1.446-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.446/Fluvor-0.1.446-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.447/Fluvor-0.1.447-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.447/Fluvor-0.1.447-x64.dmg"
       }
     },
-    "notes": "Antes de construir una pantalla nueva, Fluvor muestra un boceto en gris de cada pantalla, en escritorio y en teléfono, justo arriba de la pregunta de si es lo que imaginabas. El boceto se dibuja sin red y sin colores para que mires la estructura, y el revisor de diseño juzga lo construido contra él. Blueprint no certificado: publicado con --accept-partial-spec."
+    "notes": "El navegador del revisor de diseño queda privado de su revisión: el orquestador ya no puede usarlo para probar la app, así que su trabajo no aparece bajo la ficha del crítico ni ensucia la sesión del revisor. Incluye el boceto en gris antes de construir una experiencia nueva. Blueprint no certificado: publicado con --accept-partial-spec."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
@@ -29,10 +29,10 @@
       "revoked": false
     }
   },
-  "issuedAt": "2026-11-10T19:57:12.020Z",
+  "issuedAt": "2026-11-11T14:12:56.719Z",
   "signature": {
     "alg": "Ed25519",
     "keyId": "a0abab943be040c386b8d2b1",
-    "sig": "+ilZ1rbc/Onx81T8YgOgDLAO86t+KvrzznJSY2jRKbhQhADgvRsSOVeB59iuPp6CjA8dxfdbldSJ6uJMdaxzDg=="
+    "sig": "4pBb4TRL9Bnbqymw3Ce/t2JiQnyoTv0KSr9AnJF/fUKf+q2kIQGDbXFfPvn7Ez7XGdghaig3bVcAYtO1tNrIBg=="
   }
 }
