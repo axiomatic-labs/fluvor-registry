@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.447",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.447",
+    "version": "0.1.448",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.448",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.447",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.447"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.448",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.448"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.447/Fluvor-0.1.447-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.447/Fluvor-0.1.447-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.448/Fluvor-0.1.448-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.448/Fluvor-0.1.448-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.447/Fluvor-0.1.447-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.447/Fluvor-0.1.447-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.448/Fluvor-0.1.448-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.448/Fluvor-0.1.448-x64.dmg"
       }
     },
-    "notes": "El navegador del revisor de diseño queda privado de su revisión: el orquestador ya no puede usarlo para probar la app, así que su trabajo no aparece bajo la ficha del crítico ni ensucia la sesión del revisor. Incluye el boceto en gris antes de construir una experiencia nueva. Blueprint no certificado: publicado con --accept-partial-spec."
+    "notes": "El architect ya no se vuelve a lanzar por lo que aprobaste: su revisión de entrega no se cancela al detener un turno, no consulta de nuevo al implementar una recomendación aprobada, espera a que terminen esas implementaciones y solo corre tras turnos que cambiaron archivos; una segunda aprobación en la misma área ya no borra la anterior. Los agentes de un equipo ya no chocan en el puerto que fija una app Node (por ejemplo next dev --port 3005): sus servidores y su shell escuchan en el puerto de su sesión, y lo que no se puede mover ya no pide liberar el puerto. Blueprint no certificado: publicado con --accept-partial-spec."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
@@ -29,10 +29,10 @@
       "revoked": false
     }
   },
-  "issuedAt": "2026-11-11T14:12:56.719Z",
+  "issuedAt": "2026-11-13T16:24:17.634Z",
   "signature": {
     "alg": "Ed25519",
     "keyId": "a0abab943be040c386b8d2b1",
-    "sig": "4pBb4TRL9Bnbqymw3Ce/t2JiQnyoTv0KSr9AnJF/fUKf+q2kIQGDbXFfPvn7Ez7XGdghaig3bVcAYtO1tNrIBg=="
+    "sig": "EAY2Ksk5/BcD6rps6Ybugk9ThIgagKehUEWxsr3A4p1+DI4y3/Q0b5ZqGyEPOINaC3ncihVgplmYATFJ0Tc6Aw=="
   }
 }
