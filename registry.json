@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.449",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.449",
+    "version": "0.1.450",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.450",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.449",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.449"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.450",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.450"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.449/Fluvor-0.1.449-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.449/Fluvor-0.1.449-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.450/Fluvor-0.1.450-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.450/Fluvor-0.1.450-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.449/Fluvor-0.1.449-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.449/Fluvor-0.1.449-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.450/Fluvor-0.1.450-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.450/Fluvor-0.1.450-x64.dmg"
       }
     },
-    "notes": "Los equipos de agentes muestran lo que está pasando: crear, fusionar, quitar o descartar un equipo enseña sus pasos, el tiempo y, si falla, el motivo con Reintentar. Un worktree lento ya no hace fallar el arranque del equipo. Blueprint no certificado: publicado con --accept-partial-spec."
+    "notes": "/audit suma pruebas de penetración (copia local, emulador o hosts de prueba, con alcance confirmado, modelo de amenazas, cadenas de ataque y CVSS) y una revisión legal y de cumplimiento global con fuentes y fechas. Nuevo revisor automático de seguridad en cada cambio de código, con cada hallazgo verificado antes de informar. Pentester, revisor legal y revisor de seguridad se configuran en Revisores. Blueprint no certificado: publicado con --accept-partial-spec."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
@@ -29,10 +29,10 @@
       "revoked": false
     }
   },
-  "issuedAt": "2026-11-17T16:47:11.303Z",
+  "issuedAt": "2026-11-18T21:23:51.922Z",
   "signature": {
     "alg": "Ed25519",
     "keyId": "a0abab943be040c386b8d2b1",
-    "sig": "Ap/45GWpeOjDuWmgcRQNup0KL7AK7JGQBSusUyPCUTfLFpzx4f9b9EN12thx4w1NIPJ/YC3KyoRmil3jTqopCg=="
+    "sig": "h6XkfnZl+YIvTRNjs9UZTAcWEAZmBpPtxRmLwSopg2MNHghs04yeLxg7FBsGSa5b7A4ouXl2mdUgi3b+sZMTAQ=="
   }
 }
