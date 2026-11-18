@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.450",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.450",
+    "version": "0.1.451",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.451",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.450",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.450"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.451",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.451"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.450/Fluvor-0.1.450-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.450/Fluvor-0.1.450-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.451/Fluvor-0.1.451-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.451/Fluvor-0.1.451-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.450/Fluvor-0.1.450-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.450/Fluvor-0.1.450-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.451/Fluvor-0.1.451-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.451/Fluvor-0.1.451-x64.dmg"
       }
     },
-    "notes": "/audit suma pruebas de penetración (copia local, emulador o hosts de prueba, con alcance confirmado, modelo de amenazas, cadenas de ataque y CVSS) y una revisión legal y de cumplimiento global con fuentes y fechas. Nuevo revisor automático de seguridad en cada cambio de código, con cada hallazgo verificado antes de informar. Pentester, revisor legal y revisor de seguridad se configuran en Revisores. Blueprint no certificado: publicado con --accept-partial-spec."
+    "notes": "El pentest de /audit pregunta con qué cuentas de prueba atacar y avisa si faltan para probar escalada entre usuarios o roles. El mobile-verifier inicia sesión con las cuentas de prueba. Ajustes → Revisores ahora agrupa los agentes por dónde corren (automáticos al terminar un turno, consultados durante el trabajo, solo por comando) y explica qué hace cada uno, cuándo corre y qué no hace. Blueprint no certificado: publicado con --accept-partial-spec."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
@@ -29,10 +29,10 @@
       "revoked": false
     }
   },
-  "issuedAt": "2026-11-18T21:23:51.922Z",
+  "issuedAt": "2026-11-18T22:27:47.608Z",
   "signature": {
     "alg": "Ed25519",
     "keyId": "a0abab943be040c386b8d2b1",
-    "sig": "h6XkfnZl+YIvTRNjs9UZTAcWEAZmBpPtxRmLwSopg2MNHghs04yeLxg7FBsGSa5b7A4ouXl2mdUgi3b+sZMTAQ=="
+    "sig": "cY8dux8kDXgp4k0MlfFyQWe2uWqGG7muyDNW1dn9S9mTeinq7MZzTl5szOuTg80EgLU63tBd+ME686bS5poYBA=="
   }
 }
