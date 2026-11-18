@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.451",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.451",
+    "version": "0.1.452",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.452",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.451",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.451"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.452",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.452"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.451/Fluvor-0.1.451-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.451/Fluvor-0.1.451-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.452/Fluvor-0.1.452-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.452/Fluvor-0.1.452-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.451/Fluvor-0.1.451-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.451/Fluvor-0.1.451-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.452/Fluvor-0.1.452-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.452/Fluvor-0.1.452-x64.dmg"
       }
     },
-    "notes": "El pentest de /audit pregunta con qué cuentas de prueba atacar y avisa si faltan para probar escalada entre usuarios o roles. El mobile-verifier inicia sesión con las cuentas de prueba. Ajustes → Revisores ahora agrupa los agentes por dónde corren (automáticos al terminar un turno, consultados durante el trabajo, solo por comando) y explica qué hace cada uno, cuándo corre y qué no hace. Blueprint no certificado: publicado con --accept-partial-spec."
+    "notes": "Control remoto: el teléfono ya no deja de actualizarse cuando la conexión muere en silencio (pantalla bloqueada, cambio de red o túnel que suelta la conexión). Reconecta solo si pasan 60 segundos sin datos, y de inmediato al volver a la pantalla o a la red, y recibe el estado completo al reconectar. Blueprint no certificado: publicado con --accept-partial-spec."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
@@ -29,10 +29,10 @@
       "revoked": false
     }
   },
-  "issuedAt": "2026-11-18T22:27:47.608Z",
+  "issuedAt": "2026-11-18T23:05:38.124Z",
   "signature": {
     "alg": "Ed25519",
     "keyId": "a0abab943be040c386b8d2b1",
-    "sig": "cY8dux8kDXgp4k0MlfFyQWe2uWqGG7muyDNW1dn9S9mTeinq7MZzTl5szOuTg80EgLU63tBd+ME686bS5poYBA=="
+    "sig": "L9hSNM9KfO087DBhpGSUJ+d0abGEFbvJMifDDR6l2Ogkl5eHv09DmxIkfktTc4aUMCM7B9ErhXpFJbOgSVt1Dg=="
   }
 }
