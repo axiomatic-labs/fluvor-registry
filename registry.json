@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.453",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.453",
+    "version": "0.1.454",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.454",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.453",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.453"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.454",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.454"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.453/Fluvor-0.1.453-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.453/Fluvor-0.1.453-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.454/Fluvor-0.1.454-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.454/Fluvor-0.1.454-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.453/Fluvor-0.1.453-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.453/Fluvor-0.1.453-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.454/Fluvor-0.1.454-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.454/Fluvor-0.1.454-x64.dmg"
       }
     },
-    "notes": "Ajustes → Revisores empieza cerrado para ver todos los agentes de un vistazo: cada uno muestra su nombre, dónde más corre y una descripción corta, y la flecha abre qué hace, cuándo corre y qué no hace. Blueprint no certificado: publicado con --accept-partial-spec."
+    "notes": "Control remoto: al volver del segundo plano, el teléfono reconecta al instante y muestra lo que pasó mientras no miraba, sin cerrar y abrir la app. Blueprint no certificado: publicado con --accept-partial-spec."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
@@ -29,10 +29,10 @@
       "revoked": false
     }
   },
-  "issuedAt": "2026-11-19T00:28:56.155Z",
+  "issuedAt": "2026-11-19T13:26:24.240Z",
   "signature": {
     "alg": "Ed25519",
     "keyId": "a0abab943be040c386b8d2b1",
-    "sig": "YPRxUkT3ZClGe4Ox+WpcmduoF0AjMSP7Ptqi88UEpuVC2NJ0/m7uTmCBD4tXCQjNQbU2p6JUTywf0DbSRkU7Aw=="
+    "sig": "/uLff9WlhDdr2KwgS78EPKC1mPxOBRlB452W0G8tOsQVpqn3kgCMv5kUG4SC7OqsuqsMN2DyXS1TAXTZhdJcDg=="
   }
 }
