@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.452",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.452",
+    "version": "0.1.453",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.453",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.452",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.452"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.453",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.453"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.452/Fluvor-0.1.452-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.452/Fluvor-0.1.452-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.453/Fluvor-0.1.453-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.453/Fluvor-0.1.453-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.452/Fluvor-0.1.452-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.452/Fluvor-0.1.452-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.453/Fluvor-0.1.453-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.453/Fluvor-0.1.453-x64.dmg"
       }
     },
-    "notes": "Control remoto: el teléfono ya no deja de actualizarse cuando la conexión muere en silencio (pantalla bloqueada, cambio de red o túnel que suelta la conexión). Reconecta solo si pasan 60 segundos sin datos, y de inmediato al volver a la pantalla o a la red, y recibe el estado completo al reconectar. Blueprint no certificado: publicado con --accept-partial-spec."
+    "notes": "Ajustes → Revisores empieza cerrado para ver todos los agentes de un vistazo: cada uno muestra su nombre, dónde más corre y una descripción corta, y la flecha abre qué hace, cuándo corre y qué no hace. Blueprint no certificado: publicado con --accept-partial-spec."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
@@ -29,10 +29,10 @@
       "revoked": false
     }
   },
-  "issuedAt": "2026-11-18T23:05:38.124Z",
+  "issuedAt": "2026-11-19T00:28:56.155Z",
   "signature": {
     "alg": "Ed25519",
     "keyId": "a0abab943be040c386b8d2b1",
-    "sig": "L9hSNM9KfO087DBhpGSUJ+d0abGEFbvJMifDDR6l2Ogkl5eHv09DmxIkfktTc4aUMCM7B9ErhXpFJbOgSVt1Dg=="
+    "sig": "YPRxUkT3ZClGe4Ox+WpcmduoF0AjMSP7Ptqi88UEpuVC2NJ0/m7uTmCBD4tXCQjNQbU2p6JUTywf0DbSRkU7Aw=="
   }
 }
