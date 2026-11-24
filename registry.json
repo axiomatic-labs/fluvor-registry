@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.455",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.455",
+    "version": "0.1.456",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.456",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.455",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.455"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.456",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.456"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.455/Fluvor-0.1.455-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.455/Fluvor-0.1.455-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.456/Fluvor-0.1.456-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.456/Fluvor-0.1.456-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.455/Fluvor-0.1.455-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.455/Fluvor-0.1.455-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.456/Fluvor-0.1.456-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.456/Fluvor-0.1.456-x64.dmg"
       }
     },
-    "notes": "Corrige un fallo del empaquetado por el que la versión 0.1.454 para Mac Intel no lograba iniciar la interfaz («Fluvor no pudo iniciar la interfaz»); el release ahora comprueba que la interfaz termina de arrancar antes de publicar. Además, el menú @ del composer ya no ofrece agentes apagados en Ajustes, y los agentes propios de /debug, /fix y /audit sólo corren dentro de esos flujos. Blueprint no certificado: publicado con --accept-partial-spec."
+    "notes": "Claude vuelve a recibir completas las reglas de cada turno: antes, en los turnos con más instrucciones, solo le llegaba un extracto. Una imagen pegada en una tarjeta de pregunta ahora llega junto con tu respuesta, en el mismo turno. Cuando el orquestador revisa una pantalla en su navegador (local o staging), la evalúa como el usuario que la va a usar: recorre el flujo paso a paso, lee cada texto y corrige lo que ese usuario no entendería. Blueprint no certificado: publicado con --accept-partial-spec."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
@@ -29,10 +29,10 @@
       "revoked": false
     }
   },
-  "issuedAt": "2026-11-20T16:10:15.633Z",
+  "issuedAt": "2026-11-24T02:23:53.075Z",
   "signature": {
     "alg": "Ed25519",
     "keyId": "a0abab943be040c386b8d2b1",
-    "sig": "ctnUw0hz7VuuwbPzeOLNqaZfmaKeeWOmApL4DaYlzJVbbwnBKUrblhqr+S19qQWbdX/AC5TGn1dDUhcUFnVDBA=="
+    "sig": "sg8XSMBErCVQesV08DJnTFxgQwXzsqMDgevnFJedQSaRPwVNot3UkvvEr0X9M8RRV3L/R1UJYGzolrZY1YnBDQ=="
   }
 }
