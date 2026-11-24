@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.458",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.458",
+    "version": "0.1.459",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.459",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.458",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.458"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.459",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.459"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.458/Fluvor-0.1.458-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.458/Fluvor-0.1.458-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.459/Fluvor-0.1.459-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.459/Fluvor-0.1.459-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.458/Fluvor-0.1.458-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.458/Fluvor-0.1.458-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.459/Fluvor-0.1.459-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.459/Fluvor-0.1.459-x64.dmg"
       }
     },
-    "notes": "Control remoto: la ficha «En espera» es una ficha más en el teléfono, y seis fichas caben en una fila sin cortarse. Blueprint no certificado: publicado con --accept-partial-spec."
+    "notes": "Con el chat compacto del escritorio, la cola de mensajes en espera es una ficha más, igual que las demás: borde, fondo y el número en su píldora. Blueprint no certificado: publicado con --accept-partial-spec."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
@@ -29,10 +29,10 @@
       "revoked": false
     }
   },
-  "issuedAt": "2026-11-24T14:13:04.261Z",
+  "issuedAt": "2026-11-24T16:04:35.008Z",
   "signature": {
     "alg": "Ed25519",
     "keyId": "a0abab943be040c386b8d2b1",
-    "sig": "gsfDyw1/+/h0oILoSjNw5ZxNeB852Nuwe88M0YlJdcCNkbhIAeTCrP4T1fWCG15L6JiV2ozD6A0P50xkpZy4Bw=="
+    "sig": "vIi1RDFUKqpUSb7Urx2QJth86/Yc4xPYzKLwJ8FwQ8Cts+LC4EMvna7WMrrG6QY5A9zLkHXXUKWsGarmYV0yAg=="
   }
 }
