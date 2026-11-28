@@ -1,22 +1,22 @@
 {
   "latest": {
-    "version": "0.1.460",
-    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.460",
+    "version": "0.1.461",
+    "url": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.461",
     "urls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.460",
-      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.460"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.461",
+      "x64": "https://github.com/axiomatic-labs/fluvor-registry/releases/tag/v0.1.461"
     },
     "downloadUrls": {
-      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.460/Fluvor-0.1.460-arm64.dmg",
-      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.460/Fluvor-0.1.460-x64.dmg"
+      "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.461/Fluvor-0.1.461-arm64.dmg",
+      "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.461/Fluvor-0.1.461-x64.dmg"
     },
     "downloads": {
       "darwin": {
-        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.460/Fluvor-0.1.460-arm64.dmg",
-        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.460/Fluvor-0.1.460-x64.dmg"
+        "arm64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.461/Fluvor-0.1.461-arm64.dmg",
+        "x64": "https://github.com/axiomatic-labs/fluvor-releases/releases/download/v0.1.461/Fluvor-0.1.461-x64.dmg"
       }
     },
-    "notes": "Control remoto: una respuesta tocada en el teléfono (por ejemplo, aprobar un paso) ahora llega siempre a la computadora, una sola vez, aunque el túnel falle o la conexión quede colgada; antes podía perderse hasta salir y volver a entrar. Entrar a un chat largo desde el teléfono ya no queda en negro: recibe solo el final de la conversación en vez del historial completo. Blueprint no certificado: publicado con --accept-partial-spec."
+    "notes": "Control remoto: una foto enviada desde el teléfono ahora llega al agente; una recarga vuelve al chat en vez de a Inicio, y el teléfono ya no recarga por un corte momentáneo del túnel; la ficha de Procesos muestra cuándo hay un proceso en curso. Blueprint no certificado: publicado con --accept-partial-spec."
   },
   "licenses": {
     "958121979a092ccda32427013dcc91f883d8ea0b0546eb5ccc1d132eff06baa1": {
@@ -29,10 +29,10 @@
       "revoked": false
     }
   },
-  "issuedAt": "2026-11-25T13:48:21.810Z",
+  "issuedAt": "2026-11-28T05:05:07.097Z",
   "signature": {
     "alg": "Ed25519",
     "keyId": "a0abab943be040c386b8d2b1",
-    "sig": "p6KAKdZ3JVs4Qs8zwPCkjtxf7yZpGUziXNyBa2c/ZFNTrO2JLR5PQ5AK/6KiESdkIV5Z/DJToPNXKNM2OYULDQ=="
+    "sig": "F/Mr/rV4cuJN0vjFFyo+jhx39F3lhi9cphkYkNGBHlrsFpKw2qO1eV7n22hR/jP/DfN5lQvHjJtehFyh6wI9AQ=="
   }
 }
